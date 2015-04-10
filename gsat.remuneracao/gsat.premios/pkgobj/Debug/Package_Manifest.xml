@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8cb12f57-e03b-4b34-a3b1-a8e1112483eb" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Library.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Cit.Globosat.Common.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="CIT.Sharepoint.Util.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Cit.Globosat.Premios.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Cit.Globosat.Premios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=49c2cd8d8f741a50" Namespace="Cit.Globosat.Premios.WPPremios" TypeName="*" />
+        <SafeControl Assembly="Cit.Globosat.Premios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=49c2cd8d8f741a50" Namespace="Cit.Globosat.Premios.WPFuncionariosPremios" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Cit.Globosat.Premios\WPPremios\WPPremiosUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\Cit.Globosat.Premios\WPFuncionariosPremios\WPFuncionariosPremiosUserControl.ascx" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsDadosFuncionario.xsc" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsDadosFuncionario.xsd" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsDadosFuncionario.xss" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsFuncionariosPremios.xsc" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsFuncionariosPremios.xsd" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsFuncionariosPremios.xss" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsPremios.xsc" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsPremios.xsd" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Premios\Reports\dsPremios.xss" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.premios_Cit.Globosat.Premios\Feature.xml" />
+  </FeatureManifests>
+</Solution>

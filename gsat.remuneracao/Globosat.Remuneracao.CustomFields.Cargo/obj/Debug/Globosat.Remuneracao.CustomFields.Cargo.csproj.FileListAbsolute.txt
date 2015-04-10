@@ -1,0 +1,5 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields.Cargo\bin\Debug\Globosat.Remuneracao.CustomFields.Cargo.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields.Cargo\bin\Debug\Globosat.Remuneracao.CustomFields.Cargo.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields.Cargo\obj\Debug\Globosat.Remuneracao.CustomFields.Cargo.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields.Cargo\obj\Debug\Globosat.Remuneracao.CustomFields.Cargo.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields.Cargo\obj\Debug\Globosat.Remuneracao.CustomFields.Cargo.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e2ad628f-8171-44f3-a347-14dcd754b25b" solutionId="e2ad628f-8171-44f3-a347-14dcd754b25b" resetWebServer="false" name="Globosat.Remuneracao.FolhaPagamento" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="CIT.Sharepoint.Util.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\CIT.Sharepoint.Util\gsat.sharepoint.Util.csproj" />
+    <projectOutputAssembly location="Globosat.Library.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\gsat.library\gsat.library.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="aa22cb52-18ab-4f38-9b0f-57a99126d5a0" />
+  </features>
+</package>

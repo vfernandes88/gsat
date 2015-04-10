@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="abfdf0ed-343f-4367-b97c-649e8e819ada" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.Forms.Webparts.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.Forms.Webparts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=310cea02ff772642" Namespace="Globosat.Remuneracao.Forms.Webparts.InfoPathFormHost" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\Globosat.Remuneracao.Forms.Webparts\logo-cit.gif" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.Forms.Webparts_Globosat.Remuneracao.Forms.Webparts\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,25 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\bin\Debug\Globosat.Remuneracao.ERBibCargos.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ERBibCargos\obj\Debug\Globosat.Remuneracao.ERBibCargos.pdb

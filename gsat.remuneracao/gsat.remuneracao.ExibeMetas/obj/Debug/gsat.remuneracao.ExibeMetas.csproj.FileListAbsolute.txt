@@ -1,0 +1,27 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.ExibeMetas\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.ExibeMetas\obj\Debug\gsat.remuneracao.ExibeMetas.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\gsat.remuneracao.ExibeMetas.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\gsat.remuneracao.ExibeMetas.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\gsat.remuneracao.ExibeMetas.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.pdb

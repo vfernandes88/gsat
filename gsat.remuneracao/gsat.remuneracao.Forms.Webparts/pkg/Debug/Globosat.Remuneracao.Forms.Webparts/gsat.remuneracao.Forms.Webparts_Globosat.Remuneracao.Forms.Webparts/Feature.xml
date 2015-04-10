@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part para a visualização de formulários InfoPath." Id="25c1cfa1-a47b-402f-97b9-43470936c9da" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.Forms.Webparts">
+  <ElementManifests>
+    <ElementManifest Location="InfoPathFormHost\Elements.xml" />
+    <ElementFile Location="InfoPathFormHost\InfoPathFormHost.webpart" />
+  </ElementManifests>
+</Feature>

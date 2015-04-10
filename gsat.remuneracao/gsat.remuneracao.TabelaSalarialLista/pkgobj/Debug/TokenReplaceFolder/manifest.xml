@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3e5e7cbb-740e-4db7-87a2-5ca61a089578" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.TabelaSalarialLista.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.TabelaSalarialLista, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e423f659c3f14551" Namespace="Globosat.Remuneracao.TabelaSalarialLista.WPTabelaSalarialLista" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Globosat.Remuneracao.TabelaSalarialLista\WPTSalarialLista\WPTSalarialListaUC.ascx" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.TabelaSalarialLista\logo-cit.gif" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.TabelaSalarialLista\TabelaSalarial.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.TabelaSalarialLista_Globosat.Remuneracao.TabelaSalarialLista\Feature.xml" />
+  </FeatureManifests>
+</Solution>

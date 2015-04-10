@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDadosFuncionario" targetNamespace="http://tempuri.org/dsDadosFuncionario.xsd" xmlns:mstns="http://tempuri.org/dsDadosFuncionario.xsd" xmlns="http://tempuri.org/dsDadosFuncionario.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDadosFuncionario" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsDadosFuncionario" msprop:Generator_UserDSName="dsDadosFuncionario">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DADOS_FUNCIONARIO" msprop:Generator_TableClassName="DADOS_FUNCIONARIODataTable" msprop:Generator_TableVarName="tableDADOS_FUNCIONARIO" msprop:Generator_TablePropName="DADOS_FUNCIONARIO" msprop:Generator_RowDeletingName="DADOS_FUNCIONARIORowDeleting" msprop:Generator_RowChangingName="DADOS_FUNCIONARIORowChanging" msprop:Generator_RowEvHandlerName="DADOS_FUNCIONARIORowChangeEventHandler" msprop:Generator_RowDeletedName="DADOS_FUNCIONARIORowDeleted" msprop:Generator_UserTableName="DADOS_FUNCIONARIO" msprop:Generator_RowChangedName="DADOS_FUNCIONARIORowChanged" msprop:Generator_RowEvArgName="DADOS_FUNCIONARIORowChangeEvent" msprop:Generator_RowClassName="DADOS_FUNCIONARIORow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="COLIGADA" msprop:Generator_ColumnVarNameInTable="columnCOLIGADA" msprop:Generator_ColumnPropNameInRow="COLIGADA" msprop:Generator_ColumnPropNameInTable="COLIGADAColumn" msprop:Generator_UserColumnName="COLIGADA" type="xs:string" minOccurs="0" />
+              <xs:element name="MATRICULA" msprop:Generator_ColumnVarNameInTable="columnMATRICULA" msprop:Generator_ColumnPropNameInRow="MATRICULA" msprop:Generator_ColumnPropNameInTable="MATRICULAColumn" msprop:Generator_UserColumnName="MATRICULA" type="xs:string" minOccurs="0" />
+              <xs:element name="NOME" msprop:Generator_ColumnVarNameInTable="columnNOME" msprop:Generator_ColumnPropNameInRow="NOME" msprop:Generator_ColumnPropNameInTable="NOMEColumn" msprop:Generator_UserColumnName="NOME" type="xs:string" minOccurs="0" />
+              <xs:element name="FUNCAO" msprop:Generator_ColumnVarNameInTable="columnFUNCAO" msprop:Generator_ColumnPropNameInRow="FUNCAO" msprop:Generator_ColumnPropNameInTable="FUNCAOColumn" msprop:Generator_UserColumnName="FUNCAO" type="xs:string" minOccurs="0" />
+              <xs:element name="SALARIO" msprop:Generator_ColumnVarNameInTable="columnSALARIO" msprop:Generator_ColumnPropNameInRow="SALARIO" msprop:Generator_ColumnPropNameInTable="SALARIOColumn" msprop:Generator_UserColumnName="SALARIO" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

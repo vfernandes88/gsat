@@ -1,0 +1,12 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\gsat.remuneracao.TabelaRemuneracaoVariavel.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaRemuneracaoVariavel\obj\Debug\gsat.remuneracao.TabelaRemuneracaoVariavel.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaRemuneracaoVariavel\bin\Debug\wnvhtmlconvert.dll

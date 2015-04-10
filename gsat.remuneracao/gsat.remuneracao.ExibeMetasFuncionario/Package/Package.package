@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="cd06b949-3b99-47e3-bf1d-e12bd438da0a" solutionId="cd06b949-3b99-47e3-bf1d-e12bd438da0a" resetWebServer="false" name="Globosat.Remuneracao.ExibeMetasFuncionario" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="Globosat.Library.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\gsat.library\gsat.library.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="872ffe69-3929-40bc-a4b6-53f497b6e7ad" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="f8b407df-341f-432a-969b-7d74b827e4dd" />
+  </projectItems>
+</package>

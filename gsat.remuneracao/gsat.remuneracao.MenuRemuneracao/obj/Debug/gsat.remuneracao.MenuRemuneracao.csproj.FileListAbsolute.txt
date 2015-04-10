@@ -1,0 +1,25 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\gsat.remuneracao.MenuRemuneracao.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\obj\Debug\gsat.remuneracao.MenuRemuneracao.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\obj\Debug\gsat.remuneracao.MenuRemuneracao.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.pdb

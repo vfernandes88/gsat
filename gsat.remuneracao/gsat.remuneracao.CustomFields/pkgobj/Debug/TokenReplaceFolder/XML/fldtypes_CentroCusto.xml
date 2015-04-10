@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="TypeName">CentroCusto</Field>
+    <Field Name="ParentType">Text</Field>
+    <Field Name="TypeDisplayName">Centro de Custo</Field>
+    <Field Name="TypeShortDescription">Centro de Custo</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="ShowOnListCreate">TRUE</Field>
+    <Field Name="ShowOnSurveyCreate">TRUE</Field>
+    <Field Name="ShowOnDocumentLibraryCreate">TRUE</Field>
+    <Field Name="ShowOnColumnTemplateCreate">TRUE</Field>
+    <Field Name="FieldTypeClass">Globosat.Remuneracao.CustomFields.CentroCusto,Globosat.Remuneracao.CustomFields, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a0be42e87db1e8c3</Field>
+  </FieldType>
+</FieldTypes>

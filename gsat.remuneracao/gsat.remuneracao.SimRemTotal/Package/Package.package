@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3f96019c-4763-4dd5-917c-518ddf6f0df5" solutionId="3f96019c-4763-4dd5-917c-518ddf6f0df5" resetWebServer="false" name="Globosat.Remuneracao.SimRemTotal" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ed70070b-8730-45c1-b153-8f7a21dfcfd3" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="f58610ca-23c3-4efe-b000-64c247380a4a" />
+  </projectItems>
+</package>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8f55a270-d4c0-49eb-bd55-9c003da32fa3" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.CustomFields.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\CentroCustoFieldControl.ascx" />
+    <TemplateFile Location="XML\fldtypes_CentroCusto.xml" />
+  </TemplateFiles>
+</Solution>

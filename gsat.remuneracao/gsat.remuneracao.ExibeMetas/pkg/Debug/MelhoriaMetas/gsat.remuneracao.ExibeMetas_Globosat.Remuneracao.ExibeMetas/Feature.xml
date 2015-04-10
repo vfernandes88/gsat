@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part para Exibição de Metas" Id="e2cdade3-21b3-4316-90a4-8f189b647c1f" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.ExibeMetas">
+  <ElementManifests>
+    <ElementManifest Location="WPExibeMetas\Elements.xml" />
+    <ElementFile Location="WPExibeMetas\WPExibeMetas.webpart" />
+  </ElementManifests>
+</Feature>

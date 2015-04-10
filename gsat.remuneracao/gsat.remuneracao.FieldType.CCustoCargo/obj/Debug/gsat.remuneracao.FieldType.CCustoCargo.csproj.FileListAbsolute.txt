@@ -1,0 +1,25 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\gsat.remuneracao.FieldType.CCustoCargo.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\obj\Debug\gsat.remuneracao.FieldType.CCustoCargo.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\obj\Debug\gsat.remuneracao.FieldType.CCustoCargo.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb

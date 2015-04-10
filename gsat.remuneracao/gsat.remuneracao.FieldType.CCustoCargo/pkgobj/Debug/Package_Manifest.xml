@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="c9b951c2-7735-4960-a225-4bb355903b42" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.FieldType.CCustoCargo.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="XML\fldtypes_CargoField.xml" />
+    <TemplateFile Location="XML\fldtypes_CentroCustoCargoField.xml" />
+    <TemplateFile Location="CONTROLTEMPLATES\CargoFieldControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\CentroCustoCargoFieldControl.ascx" />
+  </TemplateFiles>
+</Solution>

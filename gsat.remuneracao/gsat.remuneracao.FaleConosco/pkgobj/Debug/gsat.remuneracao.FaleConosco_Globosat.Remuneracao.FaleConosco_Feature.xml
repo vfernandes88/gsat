@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part de Fale Conosco." Id="03f660c1-5b70-497b-9420-38099ce29b91" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.FaleConosco">
+  <ElementManifests>
+    <ElementManifest Location="WPFaleConosco\Elements.xml" />
+    <ElementFile Location="WPFaleConosco\WPFaleConosco.webpart" />
+  </ElementManifests>
+</Feature>

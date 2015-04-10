@@ -1,0 +1,22 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\gsat.remuneracao.FiltroBibCargos.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\obj\Debug\gsat.remuneracao.FiltroBibCargos.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\obj\Debug\gsat.remuneracao.FiltroBibCargos.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb

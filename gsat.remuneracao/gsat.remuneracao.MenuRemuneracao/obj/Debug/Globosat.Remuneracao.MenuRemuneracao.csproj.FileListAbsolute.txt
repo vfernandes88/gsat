@@ -1,0 +1,28 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\Globosat.Remuneracao.MenuRemuneracao.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\wnvhtmlconvert.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\Globosat.Remuneracao.MenuRemuneracao.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\Globosat.Remuneracao.MenuRemuneracao.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\ResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\Globosat.Remuneracao.MenuRemuneracao.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\WPMenuRemuneracao.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.MenuRemuneracao\obj\Debug\WPMenuRemuneracao.pdb

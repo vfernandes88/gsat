@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="0a587fba-fcdd-4e8b-850b-ed1181b53ce1" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MelhoriaMetas.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="MelhoriaMetas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a863ef5b32b85a5b" Namespace="MelhoriaMetas.WPExibeMetas" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\MelhoriaMetas\WPExibeMetas\WPExibeMetasUserControl.ascx" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.ExibeMetas\logo-cit.gif" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.ExibeMetas\seta.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.ExibeMetas_Globosat.Remuneracao.ExibeMetas\Feature.xml" />
+  </FeatureManifests>
+</Solution>

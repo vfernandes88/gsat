@@ -1,0 +1,26 @@
+C:\intranetglobosat\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\gsat.sharepoint.Util.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.sharepoint.Util\obj\Debug\gsat.sharepoint.Util.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Tatiana\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Tatiana\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\wnvhtmlconvert.dll
+C:\Tatiana\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\gsat.sharepoint.Util.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\Tatiana\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\TFS\Em Homologação\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\gsat.sharepoint.Util.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\TFS\Em Homologação\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\gsat.sharepoint.Util.csprojResolveAssemblyReference.cache
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb

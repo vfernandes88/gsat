@@ -1,0 +1,19 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\bin\Debug\Globosat.Remuneracao.TabelaSalarialLista.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\bin\Debug\Globosat.Remuneracao.TabelaSalarialLista.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\bin\Debug\Globosat.Remuneracao.TabelaSalarialLista.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\bin\Debug\Globosat.Remuneracao.TabelaSalarialLista.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\bin\Debug\Globosat.Remuneracao.TabelaSalarialLista.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\bin\Debug\Globosat.Remuneracao.TabelaSalarialLista.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarialLista\bin\Debug\Globosat.Remuneracao.TabelaSalarialLista.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarialLista\bin\Debug\Globosat.Remuneracao.TabelaSalarialLista.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarialLista\obj\Debug\Globosat.Remuneracao.TabelaSalarialLista.pdb

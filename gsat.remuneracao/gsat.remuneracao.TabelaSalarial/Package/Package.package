@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6ea155dc-ca7e-4e5b-84fc-e1a929b32701" solutionId="6ea155dc-ca7e-4e5b-84fc-e1a929b32701" resetWebServer="false" name="Globosat.Remuneracao.TabelaSalarial" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="CIT.Sharepoint.Util.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="cf3c75bd-53a9-42aa-b8a1-9ae0b5f7c1bc" />
+    <featureReference itemId="5c38b1f6-f296-4092-a594-f82c16961334" />
+  </features>
+</package>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="0a587fba-fcdd-4e8b-850b-ed1181b53ce1" solutionId="0a587fba-fcdd-4e8b-850b-ed1181b53ce1" resetWebServer="false" name="MelhoriaMetas" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="e2cdade3-21b3-4316-90a4-8f189b647c1f" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="854bff2d-bb84-48d4-8963-d54f968a2f98" />
+  </projectItems>
+</package>

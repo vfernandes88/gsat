@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part para visualização de Tabela Salarial à partir de Lista" Id="6b370553-de72-4c9e-be51-e4382fb6ff02" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.TabelaSalarialLista">
+  <ElementManifests>
+    <ElementManifest Location="WPTSalarialLista\Elements.xml" />
+    <ElementFile Location="WPTSalarialLista\WPTabelaSalarialLista.webpart" />
+  </ElementManifests>
+</Feature>

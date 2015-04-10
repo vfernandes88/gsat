@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field ID="{76C140E1-D827-433B-AD38-257F9594B847}" Name="Remuneracao_Value" DisplayName="Value" Group="Remuneracao" Type="Text" Required="True" />
+</Elements>

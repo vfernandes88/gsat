@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="RemVariavel.WPRemVariavel.WPRemVariavel, RemVariavel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c54e82ac2c32471a" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="CatalogIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="TitleIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="Title" type="string">WPRemuneracaoVariavel</property>
+        <property name="Description" type="string">WebPart para exibição de Remuneração Variável Total no ano</property>
+        <property name="ChromeType" type="chrometype">None</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

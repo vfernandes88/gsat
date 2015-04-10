@@ -1,0 +1,30 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FiltroBibCargos\obj\Debug\Globosat.Remuneracao.FiltroBibCargos.pdb

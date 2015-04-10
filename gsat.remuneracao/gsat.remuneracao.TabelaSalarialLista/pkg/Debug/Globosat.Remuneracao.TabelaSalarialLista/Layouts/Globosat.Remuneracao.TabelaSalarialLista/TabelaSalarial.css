@@ -1,0 +1,35 @@
+﻿.Cabecalho
+{
+    background-color: #ABABAB; 
+    font-weight: bold;
+    border: 1px solid black;
+}
+    
+.CabecalhoPercentual
+{
+    background-color: #ABABAB; 
+    font-style: italic;
+    border: 1px solid black;
+}
+
+.CabecalhoClassificacao
+{
+    background-color: #ABABAB;
+    border: 1px solid black;
+}
+    
+.RowPar
+{
+    border: 1px solid black; 
+    background-color: #EBEBEB;
+}
+
+.RowImpar
+{
+    border: 1px solid black;
+}
+
+.TabelaSalarial
+{
+    width:100%;    
+}

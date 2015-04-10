@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3e5e7cbb-740e-4db7-87a2-5ca61a089578" solutionId="3e5e7cbb-740e-4db7-87a2-5ca61a089578" resetWebServer="false" name="Globosat.Remuneracao.TabelaSalarialLista" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6b370553-de72-4c9e-be51-e4382fb6ff02" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="5c08ac98-e863-4d6a-9b67-9c43309c9356" />
+    <projectItemReference itemId="c27bcf0b-90d1-464b-9396-bd9e9d878b5a" />
+  </projectItems>
+</package>

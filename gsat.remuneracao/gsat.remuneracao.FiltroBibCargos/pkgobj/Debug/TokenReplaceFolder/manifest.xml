@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b9f2a360-bb0b-41f2-af74-9f7b6f4280f2" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.FiltroBibCargos.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.FiltroBibCargos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0b723d2835c5c5e2" Namespace="Globosat.Remuneracao.FiltroBibCargos.WPFiltroBibCargos" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\Globosat.Remuneracao.FiltroBibCargos\logo-cit.gif" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.FiltroBibCargos_Globosat.Remuneracao.FiltroBibCargos\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,29 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FolhaPagamento\bin\Debug\Globosat.Remuneracao.FolhaPagamento.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FolhaPagamento\bin\Debug\Globosat.Remuneracao.FolhaPagamento.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FolhaPagamento\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FolhaPagamento\obj\Debug\gsat.remuneracao.FolhaPagamento.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FolhaPagamento\obj\Debug\Globosat.Remuneracao.FolhaPagamento.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.FolhaPagamento\obj\Debug\Globosat.Remuneracao.FolhaPagamento.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\obj\Debug\gsat.remuneracao.FolhaPagamento.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\obj\Debug\Globosat.Remuneracao.FolhaPagamento.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\obj\Debug\Globosat.Remuneracao.FolhaPagamento.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Globosat.Remuneracao.FolhaPagamento.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Globosat.Remuneracao.FolhaPagamento.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Cit.Globosat.Common.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Globosat.Remuneracao.FolhaPagamento.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Globosat.Remuneracao.FolhaPagamento.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\obj\Debug\Globosat.Remuneracao.FolhaPagamento.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\obj\Debug\Globosat.Remuneracao.FolhaPagamento.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\obj\Debug\gsat.remuneracao.FolhaPagamento.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Globosat.Remuneracao.FolhaPagamento.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Globosat.Remuneracao.FolhaPagamento.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\obj\Debug\Globosat.Remuneracao.FolhaPagamento.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FolhaPagamento\obj\Debug\Globosat.Remuneracao.FolhaPagamento.pdb

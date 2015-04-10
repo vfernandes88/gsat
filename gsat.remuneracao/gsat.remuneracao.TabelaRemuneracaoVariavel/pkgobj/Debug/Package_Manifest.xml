@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="dde3f95f-706d-4e5c-8fed-1c55cdd67632" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="WPTabelaRemuneracaoVariavel.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="WPTabelaRemuneracaoVariavel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=16843e6a3bce57ea" Namespace="WPTabelaRemuneracaoVariavel.WPTabelaRemuneracaoVariavel" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\WPTabelaRemuneracaoVariavel\WPTabelaRemuneracaoVariavel\WPTabelaRemuneracaoVariavelUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.TabelaRemVariavel_Globosat.Remuneracao.TabelaRemVariavel\Feature.xml" />
+  </FeatureManifests>
+</Solution>

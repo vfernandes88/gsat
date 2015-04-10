@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="fccfdfd6-b074-4d10-843c-791f7cb51782" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CIT.Sharepoint.Util.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Globosat.Library.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="RemVariavel.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="RemVariavel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c54e82ac2c32471a" Namespace="RemVariavel.WPRemVariavel" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\RemVariavel\WPRemVariavel\WPRemVariavelUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remVariavel_Globosat.RemVariavel\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,37 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\wnvhtmlconvert.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.csprojResolveAssemblyReference.cache
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\obj\Debug\Globosat.Remuneracao.EvolucaoSalarial.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.EvolucaoSalarial\bin\Debug\Cit.Globosat.Common.pdb

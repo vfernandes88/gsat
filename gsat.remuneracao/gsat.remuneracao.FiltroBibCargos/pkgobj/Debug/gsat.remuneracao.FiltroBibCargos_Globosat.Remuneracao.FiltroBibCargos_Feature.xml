@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="3a5cb11b-52f8-498e-b8d9-f6ce21d44dcc" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.FiltroBibCargos">
+  <ElementManifests>
+    <ElementManifest Location="WPFiltroBibCargos\Elements.xml" />
+    <ElementFile Location="WPFiltroBibCargos\WPFiltroBibCargos.webpart" />
+  </ElementManifests>
+</Feature>

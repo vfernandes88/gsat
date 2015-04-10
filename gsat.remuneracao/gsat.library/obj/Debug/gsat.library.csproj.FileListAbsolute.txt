@@ -1,0 +1,29 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Library\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Library\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Library\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Library\obj\Debug\gsat.library.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Library\obj\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Library\obj\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.library\obj\Debug\gsat.library.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.library\obj\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.library\obj\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.library\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.dll
+C:\Tatiana\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.pdb
+C:\Tatiana\gsat.remuneracao\gsat.library\obj\Debug\gsat.library.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\gsat.library\obj\Debug\Globosat.Library.dll
+C:\Tatiana\gsat.remuneracao\gsat.library\obj\Debug\Globosat.Library.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.library\obj\Debug\gsat.library.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.library\obj\Debug\Globosat.Library.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.library\obj\Debug\Globosat.Library.pdb
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.dll
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.pdb
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\obj\Debug\gsat.library.csprojResolveAssemblyReference.cache
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\obj\Debug\Globosat.Library.dll
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\obj\Debug\Globosat.Library.pdb
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.dll.CodeAnalysisLog.xml
+C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.dll.lastcodeanalysissucceeded

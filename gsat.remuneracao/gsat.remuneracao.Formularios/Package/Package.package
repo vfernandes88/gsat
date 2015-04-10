@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b32120d6-8274-4e69-b3da-87d284f3ecef" solutionId="b32120d6-8274-4e69-b3da-87d284f3ecef" resetWebServer="false" name="Cit.Globosat.Remuneracao.Formularios" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="CIT.Sharepoint.Util.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\CIT.Sharepoint.Util\gsat.sharepoint.Util.csproj" />
+    <projectOutputAssembly location="Globosat.Library.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\gsat.library\gsat.library.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="e4e2e760-31da-44b4-b392-667db5865527" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="aa0c045a-cdfb-46d9-b7b5-e903a4e4a955" />
+  </projectItems>
+</package>

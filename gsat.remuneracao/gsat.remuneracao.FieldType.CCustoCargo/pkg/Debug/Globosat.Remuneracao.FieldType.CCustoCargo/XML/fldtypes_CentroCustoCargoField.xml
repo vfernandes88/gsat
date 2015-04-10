@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="TypeName">CentroCustoCargoField</Field>
+    <Field Name="ParentType">Text</Field>
+    <Field Name="TypeDisplayName">Centro de Custo com Cargo</Field>
+    <Field Name="TypeShortDescription">CCusto (Descrição Cargos)</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="ShowOnListCreate">TRUE</Field>
+    <Field Name="ShowOnSurveyCreate">TRUE</Field>
+    <Field Name="ShowOnDocumentLibraryCreate">TRUE</Field>
+    <Field Name="ShowOnColumnTemplateCreate">TRUE</Field>
+    <Field Name="FieldTypeClass">Globosat.Remuneracao.FieldType.CCustoCargo.CentroCustoCargoField,Globosat.Remuneracao.FieldType.CCustoCargo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9bb5b9f027ba9456</Field>
+    <PropertySchema>
+      <Fields>
+        <Field Name="CamposAcionados"
+					   DisplayName="Campos a serem acionados"
+					   Type="Text">
+        </Field>
+      </Fields>
+    </PropertySchema>
+    <RenderPattern Name="DisplayPattern">
+      <Switch>
+        <Expr>
+          <Column/>
+        </Expr>
+        <Case Value="">
+        </Case>
+        <Default>
+          <HTML><![CDATA[&nbsp;]]></HTML>
+          <Column HTMLEncode="TRUE"/>
+        </Default>
+      </Switch>
+    </RenderPattern>
+  </FieldType>
+</FieldTypes>

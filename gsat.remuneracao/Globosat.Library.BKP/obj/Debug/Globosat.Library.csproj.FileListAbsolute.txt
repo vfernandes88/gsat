@@ -1,0 +1,38 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.pdb
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.dll
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.pdb
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.csprojResolveAssemblyReference.cache
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.dll
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.csprojResolveAssemblyReference.cache
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.pdb
+Z:\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.dll
+Z:\Globosat.Remuneracao\Globosat.Library\bin\Debug\Globosat.Library.pdb
+Z:\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.dll
+Z:\Globosat.Remuneracao\Globosat.Library\obj\Debug\Globosat.Library.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Library\bin\Debug\Globosat.Library.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Library\bin\Debug\Globosat.Library.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Library\obj\Debug\Globosat.Library.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Library\obj\Debug\Globosat.Library.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Library\obj\Debug\Globosat.Library.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Library\bin\Debug\Globosat.Library.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Library\bin\Debug\Globosat.Library.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Library\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Library\obj\Debug\Globosat.Library.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Library\obj\Debug\Globosat.Library.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Library\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Library\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Library\bin\Debug\Cit.Globosat.Common.pdb

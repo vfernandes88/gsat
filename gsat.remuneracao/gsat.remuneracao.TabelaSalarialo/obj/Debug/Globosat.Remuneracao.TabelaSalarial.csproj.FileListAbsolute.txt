@@ -1,0 +1,33 @@
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Cit.Globosat.Common.pdb

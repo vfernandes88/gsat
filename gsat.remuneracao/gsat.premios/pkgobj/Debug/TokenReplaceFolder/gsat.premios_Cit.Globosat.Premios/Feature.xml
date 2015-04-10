@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Relatório para visualizações de prêmios dos funcionários." Id="4e525992-3320-47ce-9c03-3bb42ebf92ab" ImageUrl="Cit.Globosat.Base/logo-cit.gif" ImageUrlAltText="CI&amp;T Feature" Scope="Site" Title="Cit.Globosat.Premios">
+  <ElementManifests>
+    <ElementManifest Location="WPPremios\Elements.xml" />
+    <ElementFile Location="WPPremios\WPPremios.webpart" />
+    <ElementManifest Location="WPFuncionariosPremios\Elements.xml" />
+    <ElementFile Location="WPFuncionariosPremios\WPFuncionariosPremios.webpart" />
+  </ElementManifests>
+</Feature>

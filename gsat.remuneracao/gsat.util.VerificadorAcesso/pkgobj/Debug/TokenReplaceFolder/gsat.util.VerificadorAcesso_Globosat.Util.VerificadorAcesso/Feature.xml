@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part capaz de verificar de o usuário possui acesso a página." Id="6cc5965a-e5db-42b0-835f-c3a4862f5814" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Util.VerificadorAcesso">
+  <ElementManifests>
+    <ElementManifest Location="WPVerificadorAcesso\Elements.xml" />
+    <ElementFile Location="WPVerificadorAcesso\WPVerificadorAcesso.webpart" />
+  </ElementManifests>
+</Feature>

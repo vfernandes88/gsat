@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="WPMenuRemuneracao.WPMenuRemuneracao.WPMenuRemuneracao, WPMenuRemuneracao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f5dc0e1983ac8b0c" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="CatalogIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="TitleIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="Title" type="string">WPMenuRemuneracao</property>
+        <property name="Description" type="string">Menu do Sistema de Remuneracoes</property>
+        <property name="ChromeType" type="chrometype">None</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

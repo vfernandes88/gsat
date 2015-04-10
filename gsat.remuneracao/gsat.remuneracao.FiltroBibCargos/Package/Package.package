@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b9f2a360-bb0b-41f2-af74-9f7b6f4280f2" solutionId="b9f2a360-bb0b-41f2-af74-9f7b6f4280f2" resetWebServer="false" name="Globosat.Remuneracao.FiltroBibCargos" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d09c2366-057b-4ed7-9853-6a97ba412bfe" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="aef28da6-4514-4bf5-842f-31d9a17671b8" />
+  </projectItems>
+</package>

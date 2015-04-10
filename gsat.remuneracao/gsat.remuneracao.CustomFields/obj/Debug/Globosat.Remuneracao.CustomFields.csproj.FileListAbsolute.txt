@@ -1,0 +1,28 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb

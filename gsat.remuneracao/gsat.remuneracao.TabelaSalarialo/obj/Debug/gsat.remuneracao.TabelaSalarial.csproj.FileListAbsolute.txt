@@ -1,0 +1,17 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\gsat.remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\obj\Debug\gsat.remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.TabelaSalarial\bin\Debug\Cit.Globosat.Common.pdb

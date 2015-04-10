@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 10.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="10.0">
+ <Targets>
+  <Target Name="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\bin\Debug\Globosat.Library.dll">
+   <Modules>
+    <Module Name="globosat.library.dll">
+     <Namespaces>
+      <Namespace Name="Globosat.Library.AcessoDados">
+       <Types>
+        <Type Name="AcessoDados" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#GetAllCentrosCusto()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1383">In method 'AcessoDados.GetAllCentrosCusto()', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetAllCentrosCustoAtivos()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1456">In method 'AcessoDados.GetAllCentrosCustoAtivos()', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetAllCentrosCustoParaRV()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1555">In method 'AcessoDados.GetAllCentrosCustoParaRV()', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetCargo(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2750">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCargo(string)' could contain the following variables 'codCentroCusto'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetCargo(System.String,System.Int32,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2816">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCargo(string, int, string)' could contain the following variables 'strCargo', 'nivel'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2823">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCargo(string, int, string)' could contain the following variables 'strCargo', 'nivel'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetCargo(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2786">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCargo(string, string)' could contain the following variables 'codCentroCusto', 'codCargo'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetCargoRequisicaoPessoal(System.String,System.Int32,System.String,System.String,System.Int32)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2916">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCargoRequisicaoPessoal(string, int, string, string, int)' could contain the following variables 'strCargo', 'codFilial', 'nivel', 'codColigada', 'codFilial', 'codColigada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetCentroCusto(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="414">In method 'AcessoDados.GetCentroCusto(string, string)', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="403">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCentroCusto(string, string)' could contain the following variables 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetCentroCustoAtivos(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="490">In method 'AcessoDados.GetCentroCustoAtivos(string, string)', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="479">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCentroCustoAtivos(string, string)' could contain the following variables 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetCentroCustoAtivosD(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="541">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCentroCustoAtivosD(string, string)' could contain the following variables 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetCentroCustoToPremios(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="683">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetCentroCustoToPremios(string, string)' could contain the following variables 'matricula', 'codigoColigada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetClasseTabelaSalarial(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1309">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetClasseTabelaSalarial(string, string)' could contain the following variables 'codigoTabela', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetDadosFuncionario(System.Int32,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="3039">In method 'AcessoDados.GetDadosFuncionario(int, string)', object 'dataTable' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dataTable' before all references to it are out of scope.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="3052">In method 'AcessoDados.GetDadosFuncionario(int, string)', call System.IDisposable.Dispose on object 'sqlDataAdapter' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetDadosSimulador(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2612">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetDadosSimulador(string, string)' could contain the following variables 'ano', 'mes', 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetFolhaPagamento(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1820">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetFolhaPagamento(string)' could contain the following variables 'centroCusto'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetFolhaPagamento(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1757">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetFolhaPagamento(string, string)' could contain the following variables 'centroCusto', 'ano'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetFolhaPagamento(System.String,System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1674">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetFolhaPagamento(string, string, string)' could contain the following variables 'centroCusto', 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetFuncionariosEvolucaoSalarial(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2699">In method 'AcessoDados.GetFuncionariosEvolucaoSalarial(string, string)', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2685">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetFuncionariosEvolucaoSalarial(string, string)' could contain the following variables 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetHistoricoSalarialAcordoColetivo(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1093">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetHistoricoSalarialAcordoColetivo(string, string)' could contain the following variables 'matriculaFuncionario', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetJornada(System.String,System.String,System.String,System.Int32,System.Int32)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2986">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetJornada(string, string, string, int, int)' could contain the following variables 'cargo', 'faixa', 'nivel', 'codFilial', 'codFilial'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetLoginColaborador(System.String,System.String,System.Data.SqlClient.SqlConnection)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2580">In method 'AcessoDados.GetLoginColaborador(string, string, SqlConnection)', call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2569">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetLoginColaborador(string, string, SqlConnection)' could contain the following variables 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetMatriculaRemuneracaoVariavelAno(System.String)" Kind="Method" Static="True" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2252">In method 'AcessoDados.GetMatriculaRemuneracaoVariavelAno(string)', call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2241">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetMatriculaRemuneracaoVariavelAno(string)' could contain the following variables 'centroCusto'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetMatriculaRemuneracaoVariavelAno(System.String,System.Int32)" Kind="Method" Static="True" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2328">In method 'AcessoDados.GetMatriculaRemuneracaoVariavelAno(string, int)', call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2317">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetMatriculaRemuneracaoVariavelAno(string, int)' could contain the following variables 'centroCusto', 'ano'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetMatriculaRemuneracaoVariavelAno(System.String,System.String,System.String)" Kind="Method" Static="True" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2405">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetMatriculaRemuneracaoVariavelAno(string, string, string)' could contain the following variables 'centroCusto', 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetMatriculaRemuneracaoVariavelAno(System.String,System.String,System.String,System.Int32)" Kind="Method" Static="True" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2472">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetMatriculaRemuneracaoVariavelAno(string, string, string, int)' could contain the following variables 'centroCusto', 'ano', 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetNivelColaborador(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="3013">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetNivelColaborador(string, string)' could contain the following variables 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetNivelTabelaSalarial(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1171">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetNivelTabelaSalarial(string, string)' could contain the following variables 'codigoTabela', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetNomeColaborador(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1614">In method 'AcessoDados.GetNomeColaborador(string, string)', call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1602">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetNomeColaborador(string, string)' could contain the following variables 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetOpcaoTabelaSalarial(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="107">In method 'AcessoDados.GetOpcaoTabelaSalarial(string)', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="98">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetOpcaoTabelaSalarial(string)' could contain the following variables 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPremios(System.Int32,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="3061">In method 'AcessoDados.GetPremios(int, string)', object 'dataTable' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dataTable' before all references to it are out of scope.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="3074">In method 'AcessoDados.GetPremios(int, string)', call System.IDisposable.Dispose on object 'sqlDataAdapter' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPremios(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="3083">In method 'AcessoDados.GetPremios(string, string)', object 'dataTable' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dataTable' before all references to it are out of scope.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="3097">In method 'AcessoDados.GetPremios(string, string)', call System.IDisposable.Dispose on object 'sqlDataAdapter' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetRemuneracaoVariavelAno(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2192">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetRemuneracaoVariavelAno(string)' could contain the following variables 'centroCusto'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetRemuneracaoVariavelAno(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2064">In method 'AcessoDados.GetRemuneracaoVariavelAno(string, string)', call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2053">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetRemuneracaoVariavelAno(string, string)' could contain the following variables 'centroCusto', 'chapa'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetRemuneracaoVariavelAno(System.String,System.String,System.Nullable`1&lt;System.Int32&gt;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1937">In method 'AcessoDados.GetRemuneracaoVariavelAno(string, string, int?)', call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1926">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetRemuneracaoVariavelAno(string, string, int?)' could contain the following variables 'ano', 'centroCusto', 'chapa'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetSalarioColaborador(System.String,System.String,System.Nullable`1&lt;System.Int32&gt;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="2526">In method 'AcessoDados.GetSalarioColaborador(string, string, int?)', call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetTabelaSalarial(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="163">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetTabelaSalarial(string, string)' could contain the following variables 'codigoTabela', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetTodosColaboradores(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="812">In method 'AcessoDados.GetTodosColaboradores(string)', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="802">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetTodosColaboradores(string)' could contain the following variables 'centroCusto'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetTodosColaboradores(System.String,System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="ExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="763">In method 'AcessoDados.GetTodosColaboradores(string, string, string)', object 'dt' is not disposed along all exception paths. Call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="743">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetTodosColaboradores(string, string, string)' could contain the following variables 'centroCusto', 'matricula', 'coligada'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetTodosColaboradoresToPremios(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="885">In method 'AcessoDados.GetTodosColaboradoresToPremios(string)', call System.IDisposable.Dispose on object 'dt' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="864">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetTodosColaboradoresToPremios(string)' could contain the following variables 'centroCusto'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetTodosColaboradoresToPremiosIN(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\AcessoDados" File="AcessoDados.cs" Line="1011">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'AcessoDados.GetTodosColaboradoresToPremiosIN(string)' could contain the following variables 'centroCusto'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="Globosat.Library.Servicos">
+       <Types>
+        <Type Name="ManipularDados" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#BuscaOpcoesTabelaSalarial()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="318">In method 'ManipularDados.BuscaOpcoesTabelaSalarial()', call System.IDisposable.Dispose on object 'opcaoTabelaSalarial' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscaOpcoesTabelaSalarial(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="344">In method 'ManipularDados.BuscaOpcoesTabelaSalarial(string)', call System.IDisposable.Dispose on object 'opcaoTabelaSalarial' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscarPremios(System.Int32,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="1416">In method 'ManipularDados.BuscarPremios(int, string)', call System.IDisposable.Dispose on object 'dtPremios' before all references to it are out of scope.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="1871">In method 'ManipularDados.BuscarPremios(int, string)', call System.IDisposable.Dispose on object 'dtTodasPremiacoes' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscarPremios(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="1953">In method 'ManipularDados.BuscarPremios(string, string)', call System.IDisposable.Dispose on object 'dtPremios' before all references to it are out of scope.</Issue>
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="2473">In method 'ManipularDados.BuscarPremios(string, string)', call System.IDisposable.Dispose on object 'dtTodasPremiacoes' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscarSalarioColaborador(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="1242">In method 'ManipularDados.BuscarSalarioColaborador(string, string)', call System.IDisposable.Dispose on object 'dtSalario' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#BuscarSalarioColaborador(System.String,System.String,System.Nullable`1&lt;System.Int32&gt;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="1231">In method 'ManipularDados.BuscarSalarioColaborador(string, string, int?)', call System.IDisposable.Dispose on object 'dtSalario' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#PopularGridView(System.String,System.String,System.Boolean)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-04-10 18:37:31Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="C:\TFS\Em Desenvolvimento\gsat.remuneracao\gsat.library\Servicos" File="ManipularDados.cs" Line="78">In method 'ManipularDados.PopularGridView(string, string, bool)', call System.IDisposable.Dispose on object 'tableHistoricoSalarial' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000">
+   <Name>Dispose objects before losing scope</Name>
+   <Description>If a disposable object is not explicitly disposed before all references to it are out of scope, the object will be disposed at some indeterminate time when the garbage collector runs the finalizer of the object. Because an exceptional event might occur that will prevent the finalizer of the object from running, the object should be explicitly disposed instead.</Description>
+   <Resolution Name="ExceptionEdge">In method {0}, object {1} is not disposed along all exception paths. Call System.IDisposable.Dispose on object {1} before all references to it are out of scope.</Resolution>
+   <Resolution Name="NonExceptionEdge">In method {0}, call System.IDisposable.Dispose on object {1} before all references to it are out of scope.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182289(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="10.0.0.0" />
+  </Rule>
+  <Rule TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Review SQL queries for security vulnerabilities</Name>
+   <Description>A SQL command string built from user input is vulnerable to SQL injection attacks. Microsoft SQL Server and other database servers support stored procedures and parameterized SQL queries, which reduce the risk of injection attacks.</Description>
+   <Resolution Name="WithNonLiterals">The query string passed to {0} in {1} could contain the following variables {2}. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310(VS.100).aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="10.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

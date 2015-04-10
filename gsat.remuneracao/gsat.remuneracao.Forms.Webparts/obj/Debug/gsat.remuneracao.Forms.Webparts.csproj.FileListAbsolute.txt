@@ -1,0 +1,27 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\gsat.remuneracao.Forms.Webparts.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\gsat.remuneracao.Forms.Webparts.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\gsat.remuneracao.Forms.Webparts.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\gsat.remuneracao.Forms.Webparts.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb

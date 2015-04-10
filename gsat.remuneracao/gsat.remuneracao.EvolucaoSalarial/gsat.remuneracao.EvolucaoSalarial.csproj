@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{69382412-69E3-43E8-AC35-D9A536EF8796}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Globosat.Remuneracao.EvolucaoSalarial</RootNamespace>
+    <AssemblyName>Globosat.Remuneracao.EvolucaoSalarial</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cit.Globosat.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dfe7308c061203c4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\Cit.Globosat.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Cit.Globosat.Remuneracao.DAL">
+      <HintPath>..\Libs\Cit.Globosat.Remuneracao.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="CIT.Sharepoint.Util, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e06d7184a9e48c42, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\CIT.Sharepoint.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Server, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Server.UserProfiles, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.DataVisualization.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+    <Reference Include="wnvhtmlconvert">
+      <HintPath>..\CIT.Sharepoint.Util\wnvhtmlconvert.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Layouts\EvolucaoSalarial\MaisDetalhes.aspx.cs">
+      <DependentUpon>MaisDetalhes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Layouts\EvolucaoSalarial\MaisDetalhes.aspx.designer.cs">
+      <DependentUpon>MaisDetalhes.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WPExibeFuncionarios\WPExibeFuncionarios.cs" />
+    <Compile Include="WPExibeFuncionarios\WPExibeFuncionariosUserControl.ascx.cs">
+      <DependentUpon>WPExibeFuncionariosUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WPExibeFuncionarios\WPExibeFuncionariosUserControl.ascx.designer.cs">
+      <DependentUpon>WPExibeFuncionariosUserControl.ascx.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Features\Globosat.Remuneracao.EvolucaoSalarial\Globosat.Remuneracao.EvolucaoSalarial.feature">
+      <FeatureId>{bd570e46-ab17-4268-a253-75b46da18c94}</FeatureId>
+    </None>
+    <None Include="Images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{52a03e44-c7c0-4a78-aba8-1d78d15957a5}</SharePointProjectItemId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{acd233ec-f242-4c06-b5b9-9c4cdd6475a2}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{e707e77d-c23a-4ecf-b3a8-10ec8de59eba}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="WPExibeFuncionarios\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{2066d99c-123e-4f51-aad2-87e40b33dd83}</SharePointProjectItemId>
+    </None>
+    <None Include="WPExibeFuncionarios\WPExibeFuncionarios.webpart" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Features\Globosat.Remuneracao.EvolucaoSalarial\Globosat.Remuneracao.EvolucaoSalarial.Template.xml">
+      <DependentUpon>Globosat.Remuneracao.EvolucaoSalarial.feature</DependentUpon>
+    </Content>
+    <Content Include="Images\EvolucaoSalarial\mail_icon.jpg" />
+    <Content Include="Images\EvolucaoSalarial\pdf_icon.jpg" />
+    <Content Include="Images\EvolucaoSalarial\print_icon.jpg" />
+    <Content Include="Layouts\EvolucaoSalarial\MaisDetalhes.aspx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+    <Content Include="WPExibeFuncionarios\Elements.xml" />
+    <Content Include="WPExibeFuncionarios\WPExibeFuncionariosUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\gsat.library\gsat.library.csproj">
+      <Project>{1A2CD5A0-5EC6-4BDB-BF30-7ECC205FC03E}</Project>
+      <Name>gsat.library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>

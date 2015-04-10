@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Tabela Salarial"
+                OnQuickLaunch="TRUE"
+                TemplateType="10000"
+                FeatureId="cf3c75bd-53a9-42aa-b8a1-9ae0b5f7c1bc"
+                Url="Lists/tabela_salarial"
+                Description="">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name='Title'>CANAL BRASIL 220H/210H/180H</Field>
+          <Field Name='RemuneracaoOrdem'>01</Field>
+          <Field Name='Remuneracao_Value'>01;CANAL BRASIL 220H/210H/180H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>CANAL BRASIL 150H JOR./ LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>02</Field>
+          <Field Name='Remuneracao_Value'>02;CANAL BRASIL 150H JOR./ LOC.</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>G2C 220H/210H/180H</Field>
+          <Field Name='RemuneracaoOrdem'>03</Field>
+          <Field Name='Remuneracao_Value'>01;G2C 220H/210H/180H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>G2C 150H JOR./ LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>04</Field>
+          <Field Name='Remuneracao_Value'>G2CX</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>GLOBOSAT RJ 220H/210H/180H</Field>
+          <Field Name='RemuneracaoOrdem'>05</Field>
+          <Field Name='Remuneracao_Value'>01;GLOBOSAT RJ 220H/210H/180H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>GLOBOSAT RJ 150H JOR./LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>06</Field>
+          <Field Name='Remuneracao_Value'>02;GLOBOSAT RJ 150H JOR./LOC.</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>GLOBOSAT SP 220H/210 H/180 H</Field>
+          <Field Name='RemuneracaoOrdem'>07</Field>
+          <Field Name='Remuneracao_Value'>03;GLOBOSAT SP 220H/210 H/180 H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>GLOBOSAT SP 150H JOR./LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>08</Field>
+          <Field Name='Remuneracao_Value'>04;GLOBOSAT SP 150H JOR./LOC.</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>HORIZONTE 220H/210H/180 H</Field>
+          <Field Name='RemuneracaoOrdem'>09</Field>
+          <Field Name='Remuneracao_Value'>01;HORIZONTE 220H/210H/180 H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>HORIZONTE 150H JOR./LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>10</Field>
+          <Field Name='Remuneracao_Value'>02;HORIZONTE 150H JOR./LOC.</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>NBCUNIVERSAL 220H/210H/180H</Field>
+          <Field Name='RemuneracaoOrdem'>11</Field>
+          <Field Name='Remuneracao_Value'>01;NBCUNIVERSAL  220H/210H/180H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>NBCUNIVERSAL 150H JOR./ LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>12</Field>
+          <Field Name='Remuneracao_Value'>02;NBCUNIVERSAL 150H JOR./ LOC.</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>PLAYBOY 220H/210H/180H</Field>
+          <Field Name='RemuneracaoOrdem'>13</Field>
+          <Field Name='Remuneracao_Value'>01;PLAYBOY 220H/210H/180H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>PLAYBOY 150H JOR./LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>14</Field>
+          <Field Name='Remuneracao_Value'>02;PLAYBOY 150H JOR./LOC.</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>TELECINE 220H/210H/180H</Field>
+          <Field Name='RemuneracaoOrdem'>15</Field>
+          <Field Name='Remuneracao_Value'>01;TELECINE 220H/210H/180H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>TELECINE 150H JOR./LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>16</Field>
+          <Field Name='Remuneracao_Value'>02;TELECINE 150H JOR./LOC.</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>TELECINE SP 220H/210H/180H</Field>
+          <Field Name='RemuneracaoOrdem'>17</Field>
+          <Field Name='Remuneracao_Value'>03;TELECINE SP 220H/210H/180H</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>TELECINE SP 150H JOR./LOC.</Field>
+          <Field Name='RemuneracaoOrdem'>18</Field>
+          <Field Name='Remuneracao_Value'>04;TELECINE SP 150H JOR./LOC.</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>ESTAG. GLOBOSAT RJ e CANAIS</Field>
+          <Field Name='RemuneracaoOrdem'>19</Field>
+          <Field Name='Remuneracao_Value'>88</Field>
+        </Row>
+        <Row>
+          <Field Name='Title'>ESTAG. GLOBOSAT SP</Field>
+          <Field Name='RemuneracaoOrdem'>20</Field>
+          <Field Name='Remuneracao_Value'>89</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>

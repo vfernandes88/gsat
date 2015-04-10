@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="abfdf0ed-343f-4367-b97c-649e8e819ada" solutionId="abfdf0ed-343f-4367-b97c-649e8e819ada" resetWebServer="false" name="Globosat.Remuneracao.Forms.Webparts" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="37c0b493-c9f9-4e47-8cbd-cf92827c85bf" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="796ba541-f7da-42f2-b312-112c7ed00970" />
+  </projectItems>
+</package>

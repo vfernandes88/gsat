@@ -1,0 +1,30 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb

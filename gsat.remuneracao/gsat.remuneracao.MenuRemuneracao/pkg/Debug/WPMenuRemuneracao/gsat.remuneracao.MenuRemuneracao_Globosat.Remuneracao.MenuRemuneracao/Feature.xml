@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part de Menu do Sistema de Remunerações" Id="4418fdb1-49bc-476c-b9c4-c358739c3562" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.MenuRemuneracao">
+  <ElementManifests>
+    <ElementManifest Location="WPMenuRemuneracao\Elements.xml" />
+    <ElementFile Location="WPMenuRemuneracao\WPMenuRemuneracao.webpart" />
+  </ElementManifests>
+</Feature>

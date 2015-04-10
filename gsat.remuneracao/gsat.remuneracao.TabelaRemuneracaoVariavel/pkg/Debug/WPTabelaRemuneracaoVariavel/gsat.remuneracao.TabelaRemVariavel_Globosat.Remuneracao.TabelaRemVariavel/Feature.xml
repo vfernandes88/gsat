@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part Tabela de Remuneração Variável." Id="b9707850-2abd-4176-b2e7-6619fac3d8b4" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.TabelaRemuneracaoVariavel">
+  <ElementManifests>
+    <ElementManifest Location="WPTabelaRemuneracaoVariavel\Elements.xml" />
+    <ElementFile Location="WPTabelaRemuneracaoVariavel\WPTabelaRemuneracaoVariavel.webpart" />
+  </ElementManifests>
+</Feature>

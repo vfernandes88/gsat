@@ -1,0 +1,35 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+Z:\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+Z:\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+Z:\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+Z:\Globosat.Remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb

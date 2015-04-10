@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="b36ea658-fb8e-4fc2-a9ab-ed29c2e3d623" Scope="Site" Title="Globosat.Remuneracao.TabelaSalarial Feature1">
+  <ElementManifests>
+    <ElementManifest Location="WPTabelaSalarial\Elements.xml" />
+    <ElementFile Location="WPTabelaSalarial\WPTabelaSalarial.webpart" />
+  </ElementManifests>
+</Feature>

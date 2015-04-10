@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Cit.Globosat.Remuneracao.Formularios.WebParts.ReqPessoalVWP.ReqPessoalVWP, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">CI&amp;T Form Req. Pessoal WebPart</property>
+        <property name="Description" type="string">Formulário de Requisicao de Pessoal.</property>
+        <property name="CatalogIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="TitleIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="ChromeType" type="chrometype">None</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

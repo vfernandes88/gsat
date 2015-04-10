@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Globosat.Remuneracao.TabelaSalarialLista.WPTabelaSalarialLista.WPTabelaSalarialLista, Globosat.Remuneracao.TabelaSalarialLista, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e423f659c3f14551" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">WebPart Tabela Salarial de Lista</property>
+        <property name="Description" type="string">Web Part para visualização de Tabela Salarial à partir de Lista</property>
+        <property name="CatalogIconImageUrl" type="string">/_layouts/images/Cit.Globosat.Base/logo_globosat.gif</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

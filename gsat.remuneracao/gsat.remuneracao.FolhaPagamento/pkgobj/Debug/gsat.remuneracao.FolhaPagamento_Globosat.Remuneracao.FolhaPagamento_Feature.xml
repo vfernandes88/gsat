@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part Folha de Pagamento." Id="aa22cb52-18ab-4f38-9b0f-57a99126d5a0" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.FolhaPagamento">
+  <ElementManifests>
+    <ElementManifest Location="WPFolhaPagamento\Elements.xml" />
+    <ElementFile Location="WPFolhaPagamento\WPFolhaPagamento.webpart" />
+  </ElementManifests>
+</Feature>

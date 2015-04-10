@@ -1,0 +1,33 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.csprojResolveAssemblyReference.cache
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.FieldType.CCustoCargo\obj\Debug\Globosat.Remuneracao.FieldType.CCustoCargo.pdb

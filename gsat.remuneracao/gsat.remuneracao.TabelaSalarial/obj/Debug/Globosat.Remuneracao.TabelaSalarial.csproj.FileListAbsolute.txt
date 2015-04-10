@@ -1,0 +1,10 @@
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\bin\Debug\Globosat.Remuneracao.TabelaSalarial.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaSalarial\obj\Debug\Globosat.Remuneracao.TabelaSalarial.pdb

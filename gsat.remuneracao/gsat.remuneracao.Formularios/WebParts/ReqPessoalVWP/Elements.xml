@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="ReqPessoalVWP" List="113" Url="_catalogs/wp">
+    <File Path="ReqPessoalVWP\ReqPessoalVWP.webpart" Url="ReqPessoalVWP.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Remuneração" />
+    </File>
+  </Module>
+</Elements>

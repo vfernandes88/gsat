@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part para Exibição de Metas com informações de Funcionário" Id="872ffe69-3929-40bc-a4b6-53f497b6e7ad" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.ExibeMetasFuncionario">
+  <ElementManifests>
+    <ElementManifest Location="WPExibeMetasFunc\Elements.xml" />
+    <ElementFile Location="WPExibeMetasFunc\WPExibeMetasFunc.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,49 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+I:\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+I:\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+I:\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.csprojResolveAssemblyReference.cache
+I:\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+I:\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\Sistemas\intranetglobosat\Globosat.Remuneracao.old\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\Sistemas\intranetglobosat\Globosat.Remuneracao.old\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\Sistemas\intranetglobosat\Globosat.Remuneracao.old\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.csprojResolveAssemblyReference.cache
+C:\Sistemas\intranetglobosat\Globosat.Remuneracao.old\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\Sistemas\intranetglobosat\Globosat.Remuneracao.old\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\1\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\1\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\1\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.csprojResolveAssemblyReference.cache
+C:\1\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\1\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\GITHUB\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\GITHUB\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\GITHUB\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.csprojResolveAssemblyReference.cache
+C:\GITHUB\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\GITHUB\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.csprojResolveAssemblyReference.cache
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\obj\Debug\Globosat.Remuneracao.ExibeMetasFuncionario.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Cit.Globosat.Base.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetasFuncionario\bin\Debug\Cit.Globosat.Common.pdb

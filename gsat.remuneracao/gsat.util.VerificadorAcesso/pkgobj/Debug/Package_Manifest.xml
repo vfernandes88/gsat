@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="06371d2c-c083-475e-ae28-76446f0c8577" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Util.VerificadorAcesso.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Util.VerificadorAcesso, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9dd24403b14e99b0" Namespace="Globosat.Util.VerificadorAcesso.WPVerificadorAcesso" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Globosat.Util.VerificadorAcesso\WPVerificadorAcesso\WPVerificadorAcessoUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.util.VerificadorAcesso_Globosat.Util.VerificadorAcesso\Feature.xml" />
+  </FeatureManifests>
+</Solution>
