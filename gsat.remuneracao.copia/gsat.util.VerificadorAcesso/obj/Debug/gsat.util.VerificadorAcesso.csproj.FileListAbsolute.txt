@@ -1,0 +1,32 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Util.VerificadorAcesso\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\gsat.util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\gsat.util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\Tatiana\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\Tatiana\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\Tatiana\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\Tatiana\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\gsat.util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\gsat.util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.util.VerificadorAcesso\bin\Debug\Globosat.Util.VerificadorAcesso.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.util.VerificadorAcesso\obj\Debug\gsat.util.VerificadorAcesso.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.util.VerificadorAcesso\obj\Debug\Globosat.Util.VerificadorAcesso.pdb

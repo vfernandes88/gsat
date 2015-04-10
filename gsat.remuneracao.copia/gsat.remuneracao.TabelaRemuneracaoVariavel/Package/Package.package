@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="dde3f95f-706d-4e5c-8fed-1c55cdd67632" solutionId="dde3f95f-706d-4e5c-8fed-1c55cdd67632" resetWebServer="false" name="WPTabelaRemuneracaoVariavel" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b9707850-2abd-4176-b2e7-6619fac3d8b4" />
+  </features>
+</package>

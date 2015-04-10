@@ -1,0 +1,100 @@
+﻿/*
+    Css utilizado para realizar o layoput na exportação p/ PDF.
+    Sempre que este arquivo for modificado, será necessário alterar o nome. Pois a biblioteca da winnovative
+    armazena o mesmo em cache.
+*/
+body
+{
+    background-color: #FFFFFF;
+    margin: 0px; /* this affects the margin on the content before sending to printer */
+}
+
+.s4-titlerowhidetitle, .s4-titlelogo, .s4-titletext, .s4-socialdata-notif, #s4-searcharea
+{
+    display: none !important;
+}
+
+.ms-WPHeader
+{
+    display: none !important;
+}
+
+#divBotoes
+{
+    display: none;
+}
+
+.tableFormulario
+{
+    width: 1100px !important;
+    font-size: 13.5pt !important;
+}
+
+.tableFormulario th
+{
+    font-size: 13.5pt !important;
+}
+
+.tableFormulario td
+{
+    font-size: 13.5pt !important;
+}
+
+.titulo
+{
+    font-size: 18.5pt !important;
+}
+
+.input1
+{
+    height: 22px !important;
+    font-size: 13.5pt !important;
+}
+
+.textoCaixaAlta
+{
+    font-size: 15pt !important;
+    font-weight: 800 !important;
+}
+
+.gridRow
+{
+    font-size: 13.5pt !important;
+}
+
+.textarea
+{
+    font-size: 13.5pt !important;
+}
+
+.gridImpressao
+{
+    height: 520px !important;
+}
+
+.textarea
+{
+    height: 144px !important;
+    border-top-width: 0px !important;
+    border-right-width: 0px !important;
+    border-bottom-width: 0px !important;
+    border-left-width: 0px !important;
+}
+.input_reenquadramento
+{
+    visibility:hidden
+}
+.dropdownlist
+{
+    font-size: 13.5pt !important;
+    height: 30px !important;
+    vertical-align: text-top;
+}
+
+hr
+{
+    height: 1px !important;
+    color: #000000 !important;
+    box-sizing: border-box !important;
+}
+

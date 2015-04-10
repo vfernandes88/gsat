@@ -1,0 +1,35 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb

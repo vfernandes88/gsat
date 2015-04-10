@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="TypeName">CargoField</Field>
+    <Field Name="ParentType">Text</Field>
+    <Field Name="TypeDisplayName">Cargos</Field>
+    <Field Name="TypeShortDescription">Cargo (Descrição Cargos)</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="ShowOnListCreate">TRUE</Field>
+    <Field Name="ShowOnSurveyCreate">TRUE</Field>
+    <Field Name="ShowOnDocumentLibraryCreate">TRUE</Field>
+    <Field Name="ShowOnColumnTemplateCreate">TRUE</Field>
+    <Field Name="FieldTypeClass">Globosat.Remuneracao.FieldType.CCustoCargo.CargoField,Globosat.Remuneracao.FieldType.CCustoCargo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9bb5b9f027ba9456</Field>
+    <RenderPattern Name="DisplayPattern">
+      <Switch>
+        <Expr>
+          <Column/>
+        </Expr>
+        <Case Value="">
+        </Case>
+        <Default>
+          <HTML><![CDATA[&nbsp;]]></HTML>
+          <Column HTMLEncode="TRUE"/>
+        </Default>
+      </Switch>
+    </RenderPattern>
+  </FieldType>
+</FieldTypes>

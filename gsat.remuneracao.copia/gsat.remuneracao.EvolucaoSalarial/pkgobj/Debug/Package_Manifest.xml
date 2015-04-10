@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e707e77d-c23a-4ecf-b3a8-10ec8de59eba" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CIT.Sharepoint.Util.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Globosat.Remuneracao.EvolucaoSalarial.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.EvolucaoSalarial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c757b7f67732b175" Namespace="Globosat.Remuneracao.EvolucaoSalarial.WPExibeFuncionarios" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Globosat.Remuneracao.EvolucaoSalarial\WPExibeFuncionarios\WPExibeFuncionariosUserControl.ascx" />
+    <TemplateFile Location="Layouts\EvolucaoSalarial\MaisDetalhes.aspx" />
+    <TemplateFile Location="Images\EvolucaoSalarial\mail_icon.jpg" />
+    <TemplateFile Location="Images\EvolucaoSalarial\pdf_icon.jpg" />
+    <TemplateFile Location="Images\EvolucaoSalarial\print_icon.jpg" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.EvolucaoSalarial_Globosat.Remuneracao.EvolucaoSalarial\Feature.xml" />
+  </FeatureManifests>
+</Solution>

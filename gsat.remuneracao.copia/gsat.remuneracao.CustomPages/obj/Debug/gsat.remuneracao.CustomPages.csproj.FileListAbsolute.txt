@@ -1,0 +1,28 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomPages\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\gsat.remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\gsat.remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomPages\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomPages\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\gsat.remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\gsat.remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomPages\bin\Debug\Globosat.Remuneracao.CustomPages.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomPages\obj\Debug\gsat.remuneracao.CustomPages.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomPages\obj\Debug\Globosat.Remuneracao.CustomPages.pdb

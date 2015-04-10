@@ -1,0 +1,30 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\Globosat.Remuneracao.TabelaRemuneracaoVariavel.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\Globosat.Remuneracao.TabelaRemuneracaoVariavel.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\Globosat.Remuneracao.TabelaRemuneracaoVariavel.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\WPTabelaRemuneracaoVariavel.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\Globosat.Remuneracao.TabelaRemuneracaoVariavel.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.TabelaRemuneracaoVariavel\obj\Debug\WPTabelaRemuneracaoVariavel.pdb

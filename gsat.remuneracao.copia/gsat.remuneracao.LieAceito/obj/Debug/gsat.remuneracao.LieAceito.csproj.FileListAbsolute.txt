@@ -1,0 +1,32 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.LieAceito\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.LieAceito\obj\Debug\gsat.remuneracao.LieAceito.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\gsat.remuneracao.LieAceito.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\gsat.remuneracao.LieAceito.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\gsat.remuneracao.LieAceito.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.LieAceito\bin\Debug\Globosat.Remuneracao.LieAceito.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.LieAceito\obj\Debug\gsat.remuneracao.LieAceito.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.LieAceito\obj\Debug\Globosat.Remuneracao.LieAceito.pdb

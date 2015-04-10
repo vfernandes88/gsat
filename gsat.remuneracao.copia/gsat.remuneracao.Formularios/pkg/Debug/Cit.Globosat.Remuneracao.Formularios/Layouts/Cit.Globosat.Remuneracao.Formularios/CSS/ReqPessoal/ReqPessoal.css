@@ -1,0 +1,163 @@
+﻿.tableFormulario
+{
+    color: #000000;
+    font-size: 7.5pt;
+    font-weight: 700;
+    text-align: left;
+    font-family: Tahoma;
+    width: 700px;
+    border-width: 1px;
+    border-color: #000;
+    border-collapse: collapse;
+}
+.gradeTd
+{
+    border: thin solid #000000;
+    font-family: Tahoma;
+    font-size: 7.5pt;
+}
+
+.tableFormulario th
+{
+    color: #354D3F;
+    font-size: 7.5pt;
+    font-weight: 700;
+    text-align: center;
+    font-family: Tahoma;
+    border-width: 1px;
+    border-color: #000;
+    border-collapse: collapse;
+}
+
+.tableFormulario td
+{
+    color: #000000;
+    font-size: 7.5pt;
+    text-align: left;
+    font-family: Tahoma;
+    border-width: 1px;
+    border-color: #000;
+    border-collapse: collapse;
+}
+
+.tdImage
+{
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    width: 100px;
+    border: thin solid #000000;
+}
+
+.titulo
+{
+    text-align: center;
+    font-size: 13.5pt;
+    font-weight: 700;
+    display: inline;
+}
+
+.input1
+{
+    border: 1px solid #dcdcdc;
+    margin: 0px;
+    text-align: left;
+    font-family: Calibri;
+    font-size: 7.5pt;
+    font-style: normal;
+    font-weight: normal;
+    white-space: normal;
+    layout-grid-type: loose;
+    box-sizing: border-box;
+    vertical-align: text-bottom;
+}
+
+.input1[readonly]
+{
+    background-color: #F9F9F9 !important;
+}
+
+.dropdownlist
+{
+    width: 100%;
+    text-align: left;
+    font-size: 7.5pt;
+}
+
+.textoCaixaAlta
+{
+    text-align: center;
+    text-transform: none;
+    font-family: Tahoma;
+    font-size: 10pt !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    font-style: normal;
+}
+.gridHeaderColumn
+{
+    background-color: rgb(242, 242, 242);
+    font-style: italic !important;
+}
+.gridRow
+{
+    font-family: Tahoma !important;
+    font-size: 7.5pt !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+}
+.textarea
+{
+    color: windowtext;
+    overflow: hidden;
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    text-overflow: ellipsis;
+    background-color: window;
+    width: 99.4%;
+    height: 114px;
+    text-align: left;
+    font-family: Tahoma;
+    font-size: 10pt;
+    font-style: normal;
+    font-weight: normal;
+    overflow-x: hidden;
+    word-wrap: break-word;
+    border-top-color: #dcdcdc;
+    border-right-color: #dcdcdc;
+    border-bottom-color: #dcdcdc;
+    border-left-color: #dcdcdc;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+hr
+{
+    height: 2px;
+    color: #003399;
+    box-sizing: border-box;
+}
+
+.parecerAreas
+{
+    border: thin solid #000000;
+    font-family: Tahoma;
+    font-size: 7.5pt;
+}
+
+.label
+{
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-family: verdana, arial, helvetica, sans-serif !important;
+    text-align: left !important;
+    font-size: 7.5pt !important;
+}

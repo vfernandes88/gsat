@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3f96019c-4763-4dd5-917c-518ddf6f0df5" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.SimRemTotal.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.SimRemTotal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=baf3531ff51e00d3" Namespace="Globosat.Remuneracao.SimRemTotal.WPSimRemTotal" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Globosat.Remuneracao.SimRemTotal\WPSimRemTotal\WPSimRemTotalUserControl.ascx" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.SimRemTotal\logo-cit.gif" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.SimRemTotal_Globosat.Remuneracao.SimRemTotal\Feature.xml" />
+  </FeatureManifests>
+</Solution>

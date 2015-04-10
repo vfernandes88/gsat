@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="WPTSalarialListaUC.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="WPTSalarialLista\" Type="ElementManifest" />
+    <ProjectItemFile Source="WPTabelaSalarialLista.webpart" Target="WPTSalarialLista\" Type="ElementFile" />
+    <ProjectItemFile Source="WPTSalarialListaUC.ascx" Target="CONTROLTEMPLATES\Globosat.Remuneracao.TabelaSalarialLista\WPTSalarialLista\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="Globosat.Remuneracao.TabelaSalarialLista.WPTabelaSalarialLista" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

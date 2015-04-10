@@ -1,0 +1,8 @@
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Remuneracao.DAL\obj\Debug\Cit.Globosat.Remuneracao.DAL.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Cit.Globosat.Remuneracao.DAL\obj\Debug\Cit.Globosat.Remuneracao.DAL.csprojResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.DAL\obj\Debug\ResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.DAL\obj\Debug\Cit.Globosat.Remuneracao.DAL.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.DAL\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.DAL\bin\Debug\Cit.Globosat.Remuneracao.DAL.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.DAL\obj\Debug\Cit.Globosat.Remuneracao.DAL.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.DAL\obj\Debug\Cit.Globosat.Remuneracao.DAL.pdb

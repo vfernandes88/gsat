@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b32120d6-8274-4e69-b3da-87d284f3ecef" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CIT.Sharepoint.Util.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Globosat.Library.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Cit.Globosat.Remuneracao.Formularios.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Cit.Globosat.Remuneracao.Formularios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dfe7308c061203c4" Namespace="Cit.Globosat.Remuneracao.Formularios.WebParts.AltFuncCargoVWP" TypeName="*" />
+        <SafeControl Assembly="Cit.Globosat.Remuneracao.Formularios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dfe7308c061203c4" Namespace="Cit.Globosat.Remuneracao.Formularios.WebParts.ReqPessoalVWP" TypeName="*" />
+        <SafeControl Assembly="Cit.Globosat.Remuneracao.Formularios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dfe7308c061203c4" Namespace="Cit.Globosat.Remuneracao.Formularios.WebParts.ReqPessoalEstagVWP" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Cit.Globosat.Remuneracao.Formularios.WebParts\AltFuncCargoVWP\AltFuncCargoVWPUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\Cit.Globosat.Remuneracao.Formularios.WebParts\ReqPessoalVWP\ReqPessoalVWPUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\Cit.Globosat.Remuneracao.Formularios.WebParts\ReqPessoalEstagVWP\ReqPessoalEstagVWPUserControl.ascx" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\AltFuncCargo\AltFuncCargo.css" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\AltFuncCargo\PrintOnlyForm.css" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\AltFuncCargo\PrintPDF.css" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\ReqPessoalEstag\PrintOnlyForm.css" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\ReqPessoalEstag\PrintToPDF.css" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\ReqPessoalEstag\ReqPessoalEstag.css" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\ReqPessoal\PrintOnlyForm.css" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\ReqPessoal\PrintToPDF.css" />
+    <TemplateFile Location="Layouts\Cit.Globosat.Remuneracao.Formularios\CSS\ReqPessoal\ReqPessoal.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.Formularios_Cit.Globosat.Remuneracao.Formularios\Feature.xml" />
+  </FeatureManifests>
+</Solution>

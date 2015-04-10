@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8f55a270-d4c0-49eb-bd55-9c003da32fa3" solutionId="8f55a270-d4c0-49eb-bd55-9c003da32fa3" resetWebServer="false" name="Globosat.Remuneracao.CustomFields" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="950f076d-95ba-4a05-8476-623da82e29bc" />
+    <projectItemReference itemId="d205a125-0073-41ae-aed0-c16f6cbeff68" />
+  </projectItems>
+</package>

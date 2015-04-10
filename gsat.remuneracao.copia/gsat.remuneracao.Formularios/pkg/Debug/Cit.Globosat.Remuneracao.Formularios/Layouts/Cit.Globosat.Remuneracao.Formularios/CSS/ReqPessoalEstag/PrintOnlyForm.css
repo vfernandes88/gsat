@@ -1,0 +1,55 @@
+﻿/*
+    Css utilizado para realizar o layout para impressao.
+*/
+@page
+{
+    size: 100%; /* auto is the initial value */
+    margin: 0mm; /* this affects the margin in the printer settings */
+}
+
+body
+{
+    background-color: #FFFFFF;
+    margin: 0px; /* this affects the margin on the content before sending to printer */
+}
+
+.s4-titlerowhidetitle, .s4-titlelogo, .s4-titletext, .s4-socialdata-notif, #s4-searcharea
+{
+    display: none !important;
+}
+
+.ms-WPHeader
+{
+    display: none !important;
+}
+
+#divBotoes
+{
+    display: none;
+}
+
+.tableFormulario
+{
+    width: 100% !important;
+}
+
+.gridImpressao
+{
+    height: auto !important;
+}
+
+.textarea
+{
+    height: 144px !important;
+    border-top-width: 0px !important;
+    border-right-width: 0px !important;
+    border-bottom-width: 0px !important;
+    border-left-width: 0px !important;
+}
+
+hr
+{
+    height: 1px !important;
+    color: #000000 !important;
+    box-sizing: border-box !important;
+}

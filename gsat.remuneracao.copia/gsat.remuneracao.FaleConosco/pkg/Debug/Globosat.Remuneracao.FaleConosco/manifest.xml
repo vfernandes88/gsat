@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a29b3bce-a080-4874-b9fd-72952f71b728" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.FaleConosco.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.FaleConosco, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d9eb8068188b8854" Namespace="Globosat.Remuneracao.FaleConosco.WPFaleConosco" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Globosat.Remuneracao.FaleConosco\WPFaleConosco\WPFaleConoscoUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.FaleConosco_Globosat.Remuneracao.FaleConosco\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,32 @@
+C:\intranetglobosat\gsat.remuneracao\RemVariavel\bin\Debug\RemVariavel.dll
+C:\intranetglobosat\gsat.remuneracao\RemVariavel\bin\Debug\RemVariavel.pdb
+C:\intranetglobosat\gsat.remuneracao\RemVariavel\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\RemVariavel\obj\Debug\gsat.remVariavel.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\RemVariavel\obj\Debug\RemVariavel.dll
+C:\intranetglobosat\gsat.remuneracao\RemVariavel\obj\Debug\RemVariavel.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remVariavel\obj\Debug\gsat.remVariavel.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remVariavel\obj\Debug\RemVariavel.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remVariavel\obj\Debug\RemVariavel.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remVariavel\bin\Debug\RemVariavel.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remVariavel\bin\Debug\RemVariavel.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remVariavel\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remVariavel\bin\Debug\Cit.Globosat.Common.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remVariavel\bin\Debug\Cit.Globosat.Common.dll
+C:\Tatiana\gsat.remuneracao\gsat.remVariavel\bin\Debug\RemVariavel.dll
+C:\Tatiana\gsat.remuneracao\gsat.remVariavel\bin\Debug\RemVariavel.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remVariavel\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\Tatiana\gsat.remuneracao\gsat.remVariavel\obj\Debug\gsat.remVariavel.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\gsat.remVariavel\obj\Debug\RemVariavel.dll
+C:\Tatiana\gsat.remuneracao\gsat.remVariavel\obj\Debug\RemVariavel.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remVariavel\bin\Debug\RemVariavel.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remVariavel\bin\Debug\RemVariavel.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remVariavel\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remVariavel\obj\Debug\gsat.remVariavel.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remVariavel\obj\Debug\RemVariavel.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remVariavel\obj\Debug\RemVariavel.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remVariavel\bin\Debug\RemVariavel.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remVariavel\bin\Debug\RemVariavel.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remVariavel\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remVariavel\obj\Debug\gsat.remVariavel.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remVariavel\obj\Debug\RemVariavel.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remVariavel\obj\Debug\RemVariavel.pdb

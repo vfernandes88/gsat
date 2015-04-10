@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="bb9721e9-f56e-4332-b124-8ef91e482980" solutionId="bb9721e9-f56e-4332-b124-8ef91e482980" resetWebServer="false" name="WPMenuRemuneracao" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4418fdb1-49bc-476c-b9c4-c358739c3562" />
+  </features>
+</package>

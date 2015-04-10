@@ -1,0 +1,23 @@
+I:\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.dll
+I:\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.pdb
+I:\Globosat.Remuneracao.ExibeMetas\obj\Debug\Globosat.Remuneracao.ExibeMetas.csprojResolveAssemblyReference.cache
+I:\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.dll
+I:\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetas\obj\Debug\Globosat.Remuneracao.ExibeMetas.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\obj\Debug\Globosat.Remuneracao.ExibeMetas.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\bin\Debug\MelhoriaMetas.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\obj\Debug\MelhoriaMetas.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.ExibeMetas\bin\Debug\Cit.Globosat.Common.pdb

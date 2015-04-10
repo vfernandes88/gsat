@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E0676687-B34D-4851-8C04-A744EDB65274}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MelhoriaMetas</RootNamespace>
+    <AssemblyName>MelhoriaMetas</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Build.Conversion.v3.5" />
+    <Reference Include="Microsoft.Office.Server, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Server.UserProfiles, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SharePoint.Linq, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entidade\FuncionarioMeta.cs" />
+    <Compile Include="WPExibeMetas\WPExibeMetas.cs" />
+    <Compile Include="WPExibeMetas\WPExibeMetasUserControl.ascx.cs">
+      <DependentUpon>WPExibeMetasUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WPExibeMetas\WPExibeMetasUserControl.ascx.designer.cs">
+      <DependentUpon>WPExibeMetasUserControl.ascx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{854bff2d-bb84-48d4-8963-d54f968a2f98}</SharePointProjectItemId>
+    </None>
+    <None Include="key.snk" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="WPExibeMetas\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{c812c75d-f402-4f3e-8c6f-9f38e0b75494}</SharePointProjectItemId>
+    </None>
+    <None Include="WPExibeMetas\WPExibeMetas.webpart" />
+    <None Include="Package\Package.package">
+      <PackageId>{0a587fba-fcdd-4e8b-850b-ed1181b53ce1}</PackageId>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Features\Globosat.Remuneracao.ExibeMetas\Globosat.Remuneracao.ExibeMetas.feature">
+      <FeatureId>{e2cdade3-21b3-4316-90a4-8f189b647c1f}</FeatureId>
+    </None>
+    <None Include="Features\Globosat.Remuneracao.ExibeMetas\Globosat.Remuneracao.ExibeMetas.Template.xml">
+      <DependentUpon>Globosat.Remuneracao.ExibeMetas.feature</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Globosat.Remuneracao.ExibeMetas\logo-cit.gif" />
+    <Content Include="Images\Globosat.Remuneracao.ExibeMetas\seta.png" />
+    <Content Include="WPExibeMetas\Elements.xml" />
+    <Content Include="WPExibeMetas\WPExibeMetasUserControl.ascx">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\gsat.library\gsat.library.csproj">
+      <Project>{1A2CD5A0-5EC6-4BDB-BF30-7ECC205FC03E}</Project>
+      <Name>gsat.library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\gsat.sharepoint.Util\gsat.sharepoint.Util.csproj">
+      <Project>{36207FFA-A114-461E-9BAB-D1441B50867D}</Project>
+      <Name>gsat.sharepoint.Util</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>

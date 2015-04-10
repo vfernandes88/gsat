@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="bb9721e9-f56e-4332-b124-8ef91e482980" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="WPMenuRemuneracao.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="WPMenuRemuneracao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f5dc0e1983ac8b0c" Namespace="WPMenuRemuneracao.WPMenuRemuneracao" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\WPMenuRemuneracao\WPMenuRemuneracao\WPMenuRemuneracaoUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.MenuRemuneracao_Globosat.Remuneracao.MenuRemuneracao\Feature.xml" />
+  </FeatureManifests>
+</Solution>

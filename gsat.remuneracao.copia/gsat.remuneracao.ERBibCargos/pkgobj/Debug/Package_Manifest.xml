@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3efd10cd-c60c-4195-af0e-c47f8ec300a1" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.ERBibCargos.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.ERBibCargos_Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

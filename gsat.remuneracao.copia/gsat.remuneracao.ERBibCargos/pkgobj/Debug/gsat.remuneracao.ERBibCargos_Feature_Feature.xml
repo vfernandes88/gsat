@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Feature com a implementação das regras de validação para a Biblioteca de Cargos." Id="9608835e-96f9-4546-bd2e-1c882f570290" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Web" Title="Globosat.Remuneracao.ERBibCargos Feature">
+  <ElementManifests>
+    <ElementManifest Location="EventReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part Evolução Salarial." Id="14faa61d-2d62-45a6-ab99-497aadf3edb8" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.EvolucaoSalarial">
+  <ElementManifests>
+    <ElementManifest Location="WPExibeFuncionarios\Elements.xml" />
+    <ElementFile Location="WPExibeFuncionarios\WPExibeFuncionarios.webpart" />
+  </ElementManifests>
+</Feature>

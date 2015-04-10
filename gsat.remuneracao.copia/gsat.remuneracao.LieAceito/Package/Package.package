@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6c99fa0c-9f4b-45ba-b515-9631ce84f01b" solutionId="6c99fa0c-9f4b-45ba-b515-9631ce84f01b" resetWebServer="false" name="Globosat.Remuneracao.LieAceito" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b5f9f96b-de05-4dd1-8358-4a2148802cdc" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="05e57613-30bf-4958-93e8-10ea71a51309" />
+    <projectItemReference itemId="85d6c6ea-2279-47c3-9740-f904c919e6d7" />
+  </projectItems>
+</package>

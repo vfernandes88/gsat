@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part Tabela Salarial." Id="cf3c75bd-53a9-42aa-b8a1-9ae0b5f7c1bc" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Web" Title="Globosat.Remuneracao.TabelaSalarial">
+  <ElementManifests>
+    <ElementManifest Location="CT_TabelaSalarial\Elements.xml" />
+    <ElementManifest Location="Remuneracao_Value\Elements.xml" />
+    <ElementManifest Location="Remuneracao_Ordem\Elements.xml" />
+    <ElementManifest Location="Tabela_Salarial\Elements.xml" />
+    <ElementFile Location="Tabela_Salarial\Schema.xml" />
+    <ElementManifest Location="Instance_Tabela_Salarial\Elements.xml" />
+  </ElementManifests>
+</Feature>

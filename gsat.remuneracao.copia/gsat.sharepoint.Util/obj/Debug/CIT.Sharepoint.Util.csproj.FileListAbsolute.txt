@@ -1,0 +1,33 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.csprojResolveAssemblyReference.cache
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\Projetos\intranetglobosat\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Projetos\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\Projetos\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+Z:\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+Z:\Globosat.Remuneracao\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+Z:\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+Z:\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+Z:\Globosat.Remuneracao\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+Z:\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+Z:\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+Z:\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+Z:\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.csprojResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\obj\Debug\CIT.Sharepoint.Util.pdb
+Z:\Globosat.Remuneracao - Copy\CIT.Sharepoint.Util\bin\Debug\wnvhtmlconvert.dll

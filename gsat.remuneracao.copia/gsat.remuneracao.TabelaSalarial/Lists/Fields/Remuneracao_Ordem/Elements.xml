@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field ID="{943E7530-5E2B-4C02-8259-CCD93A9ECB18}" Name="RemuneracaoOrdem" DisplayName="Ordem" Group="Remuneracao" Type="Choice" Required="True" Overwrite="TRUE">
+    <CHOICES>
+      <CHOICE>01</CHOICE>
+      <CHOICE>02</CHOICE>
+      <CHOICE>03</CHOICE>
+      <CHOICE>04</CHOICE>
+      <CHOICE>05</CHOICE>
+      <CHOICE>06</CHOICE>
+      <CHOICE>07</CHOICE>
+      <CHOICE>08</CHOICE>
+      <CHOICE>09</CHOICE>
+      <CHOICE>10</CHOICE>
+      <CHOICE>11</CHOICE>
+      <CHOICE>12</CHOICE>
+      <CHOICE>13</CHOICE>
+      <CHOICE>14</CHOICE>
+      <CHOICE>15</CHOICE>
+      <CHOICE>16</CHOICE>
+      <CHOICE>17</CHOICE>
+      <CHOICE>18</CHOICE>
+      <CHOICE>19</CHOICE>
+      <CHOICE>20</CHOICE>
+    </CHOICES>
+  </Field>
+</Elements>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e2ad628f-8171-44f3-a347-14dcd754b25b" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CIT.Sharepoint.Util.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Globosat.Library.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Globosat.Remuneracao.FolhaPagamento.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.FolhaPagamento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c353ebd6b305333e" Namespace="Globosat.Remuneracao.FolhaPagamento.WPFolhaPagamento" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Globosat.Remuneracao.FolhaPagamento\WPFolhaPagamento\WPFolhaPagamentoUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.FolhaPagamento_Globosat.Remuneracao.FolhaPagamento\Feature.xml" />
+  </FeatureManifests>
+</Solution>

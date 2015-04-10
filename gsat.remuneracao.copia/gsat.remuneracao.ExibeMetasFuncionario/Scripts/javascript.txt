@@ -1,0 +1,107 @@
+﻿/*O javascript aabaixo deverá ser incluído na página de EditUpload da biblioteca 'book_metas'*/
+
+
+<script type="text/javascript">
+function verificar()
+{
+porEmpresa = document.getElementById("ctl00_m_g_49f5d547_a847_4ec9_9bd3_67dcafb50fe2_ff11_ctl00_ctl00_BooleanField");
+if(porEmpresa.checked)
+{
+
+document.getElementById("ctl00_m_g_49f5d547_a847_4ec9_9bd3_67dcafb50fe2_ff31_ctl00_ctl01").disabled = true;
+document.getElementById("ctl00_m_g_49f5d547_a847_4ec9_9bd3_67dcafb50fe2_ff41_ctl00_Lookup").disabled = false;
+}
+else
+{
+document.getElementById("ctl00_m_g_49f5d547_a847_4ec9_9bd3_67dcafb50fe2_ff31_ctl00_ctl01").disabled = false;
+document.getElementById("ctl00_m_g_49f5d547_a847_4ec9_9bd3_67dcafb50fe2_ff41_ctl00_Lookup").disabled = true;
+}
+}
+</script>
+<script type="text/javascript">
+    _spBodyOnLoadFunctionNames.push("verificar");
+</script>
+
+
+
+
+/*O javascript aabaixo deverá ser incluído na página de NewForm da lista 'Metas_Mensagem'*/
+
+
+<script type="text/javascript">
+function verificar()
+{
+porEmpresa = document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff21_ctl00_ctl00_BooleanField");
+if(porEmpresa.checked)
+{
+
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff51_ctl00_ctl00_SelectCandidate").disabled = true;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff51_ctl00_ctl00_AddButton").disabled = true;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff51_ctl00_ctl00_RemoveButton").disabled = true;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff51_ctl00_ctl00_SelectResult").disabled = true;
+
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff31_ctl00_ctl00_SelectCandidate").disabled = false;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff31_ctl00_ctl00_AddButton").disabled = false;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff31_ctl00_ctl00_RemoveButton").disabled = false;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff31_ctl00_ctl00_SelectResult").disabled = false;
+
+}
+else
+{
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff51_ctl00_ctl00_SelectCandidate").disabled = false;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff51_ctl00_ctl00_AddButton").disabled = false;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff51_ctl00_ctl00_RemoveButton").disabled = false;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff51_ctl00_ctl00_SelectResult").disabled = false;
+
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff31_ctl00_ctl00_SelectCandidate").disabled = true;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff31_ctl00_ctl00_AddButton").disabled = true;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff31_ctl00_ctl00_RemoveButton").disabled = true;
+document.getElementById("ctl00_m_g_16cee905_76f3_4955_a4a0_4623a48b449f_ff31_ctl00_ctl00_SelectResult").disabled = true;
+}
+}
+</script>
+<script type="text/javascript">
+    _spBodyOnLoadFunctionNames.push("verificar");
+</script>
+
+
+
+/*O javascript aabaixo deverá ser incluído na página de EditForm da lista 'Metas_Mensagem'*/
+
+
+
+<script type="text/javascript">
+function verificar()
+{
+porEmpresa = document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff21_ctl00_ctl00_BooleanField");
+if(porEmpresa.checked)
+{
+
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff31_ctl00_ctl00_SelectCandidate").disabled = false;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff31_ctl00_ctl00_AddButton").disabled = false;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff31_ctl00_ctl00_RemoveButton").disabled = false;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff31_ctl00_ctl00_SelectResult").disabled = false;
+
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff51_ctl00_ctl00_SelectCandidate").disabled = true;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff51_ctl00_ctl00_AddButton").disabled = true;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff51_ctl00_ctl00_RemoveButton").disabled = true;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff51_ctl00_ctl00_SelectResult").disabled = true;
+
+}
+else
+{
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff31_ctl00_ctl00_SelectCandidate").disabled = true;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff31_ctl00_ctl00_AddButton").disabled = true;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff31_ctl00_ctl00_RemoveButton").disabled = true;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff31_ctl00_ctl00_SelectResult").disabled = true;
+
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff51_ctl00_ctl00_SelectCandidate").disabled = false;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff51_ctl00_ctl00_AddButton").disabled = false;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff51_ctl00_ctl00_RemoveButton").disabled = false;
+document.getElementById("ctl00_m_g_ac61b17b_c92b_4b6b_bdbd_4e2153d8ec06_ff51_ctl00_ctl00_SelectResult").disabled = false;
+}
+}
+</script>
+<script type="text/javascript">
+    _spBodyOnLoadFunctionNames.push("verificar");
+</script>

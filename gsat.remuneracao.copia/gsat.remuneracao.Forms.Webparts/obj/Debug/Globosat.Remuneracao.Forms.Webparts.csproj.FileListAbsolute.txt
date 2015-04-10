@@ -1,0 +1,30 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+C:\Projetos\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+Z:\Globosat.Remuneracao\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Globosat.Remuneracao.Forms.Webparts.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.dll
+Z:\Globosat.Remuneracao - Copy\Globosat.Remuneracao.Forms.Webparts\obj\Debug\Globosat.Remuneracao.Forms.Webparts.pdb

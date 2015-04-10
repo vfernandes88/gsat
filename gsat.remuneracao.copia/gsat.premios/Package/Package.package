@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="8cb12f57-e03b-4b34-a3b1-a8e1112483eb" solutionId="8cb12f57-e03b-4b34-a3b1-a8e1112483eb" resetWebServer="false" name="Cit.Globosat.Premios" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="Globosat.Library.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\gsat.library\bin\Debug\Globosat.Library.dll" />
+    <customAssembly location="Cit.Globosat.Common.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\gsat.library\bin\Debug\Cit.Globosat.Common.dll" />
+    <customAssembly location="CIT.Sharepoint.Util.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\gsat.sharepoint.Util\bin\Debug\CIT.Sharepoint.Util.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="a021fe13-f916-436e-a0b1-3a32e541b563" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="17a9e006-5e68-4c97-ac71-f849bd278c08" />
+  </projectItems>
+</package>

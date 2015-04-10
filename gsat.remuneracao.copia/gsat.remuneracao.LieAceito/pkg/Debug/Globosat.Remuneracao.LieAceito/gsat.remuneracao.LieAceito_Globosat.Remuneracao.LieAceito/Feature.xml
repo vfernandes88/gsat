@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part para leitura e aceitação de termos de aceitação." Id="b5f9f96b-de05-4dd1-8358-4a2148802cdc" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.LieAceito">
+  <ElementManifests>
+    <ElementManifest Location="WPLieAceito\Elements.xml" />
+    <ElementFile Location="WPLieAceito\WPLieAceito.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="cd06b949-3b99-47e3-bf1d-e12bd438da0a" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Library.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="Globosat.Remuneracao.ExibeMetasFuncionario.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.ExibeMetasFuncionario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=40a8bcbbeb5586d9" Namespace="Globosat.Remuneracao.ExibeMetasFuncionario.WPExibeMetasFuncionario" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Globosat.Remuneracao.ExibeMetasFuncionario\WPExibeMetasFunc\WPExibeMetasFuncUC.ascx" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.ExibeMetasFuncionario\logo-cit.gif" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.ExibeMetasFuncionario\seta.png" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.ExibeMetasFuncionario\seta_old.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.ExibeMetasFuncionario_Globosat.Remuneracao.ExibeMetasFuncionario\Feature.xml" />
+  </FeatureManifests>
+</Solution>

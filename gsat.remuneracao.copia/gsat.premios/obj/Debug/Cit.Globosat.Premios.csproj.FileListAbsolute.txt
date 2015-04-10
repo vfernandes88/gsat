@@ -1,0 +1,44 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\RdlCompile.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\RdlCompile.compiled
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\wnvhtmlconvert.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.dll
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.pdb
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.dll
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.pdb
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\RdlCompile.cache
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\RdlCompile.compiled
+Z:\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.dll
+Z:\Globosat.Remuneracao\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.pdb
+Z:\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\RdlCompile.cache
+Z:\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\RdlCompile.compiled
+Z:\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.dll
+Z:\Globosat.Remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\RdlCompile.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\RdlCompile.compiled
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\RdlCompile.cache
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\RdlCompile.compiled
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Controls.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Controls.pdb

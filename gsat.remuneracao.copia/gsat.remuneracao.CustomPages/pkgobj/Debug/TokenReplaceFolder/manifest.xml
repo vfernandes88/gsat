@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5a750f9e-1994-4c30-aba4-924c38bc9423" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.CustomPages.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\alert.jpg" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\AlteraSalarioProposto.aspx" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\BuscaCargo.aspx" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\error.png" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\ItemDelete.aspx" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\ItemException.aspx" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\ItemExistente.aspx" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\scripts\AlteraSalario.js" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\scripts\BuscaCargo.js" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.CustomPages\scripts\jquery-1.9.1.min.js" />
+  </TemplateFiles>
+</Solution>

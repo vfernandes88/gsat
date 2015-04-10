@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="6c99fa0c-9f4b-45ba-b515-9631ce84f01b" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Globosat.Remuneracao.LieAceito.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Globosat.Remuneracao.LieAceito, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6a3a6a35af866bb1" Namespace="Globosat.Remuneracao.LieAceito.WPLieAceito" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Globosat.Remuneracao.LieAceito\WPLieAceito\WPLieAceitoUC.ascx" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.LieAceito\Cancelar.jpg" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.LieAceito\Ciente.jpg" />
+    <TemplateFile Location="Images\Globosat.Remuneracao.LieAceito\logo-cit.gif" />
+    <TemplateFile Location="Layouts\Globosat.Remuneracao.LieAceito\TermoAceite.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="gsat.remuneracao.LieAceito_Globosat.Remuneracao.LieAceito\Feature.xml" />
+  </FeatureManifests>
+</Solution>

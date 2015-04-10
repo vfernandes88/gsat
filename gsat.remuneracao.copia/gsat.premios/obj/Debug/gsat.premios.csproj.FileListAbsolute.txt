@@ -1,0 +1,46 @@
+C:\intranetglobosat\gsat.remuneracao\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.dll
+C:\intranetglobosat\gsat.remuneracao\Cit.Globosat.Premios\bin\Debug\Cit.Globosat.Premios.pdb
+C:\intranetglobosat\gsat.remuneracao\Cit.Globosat.Premios\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Cit.Globosat.Premios\obj\Debug\gsat.premios.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Cit.Globosat.Premios\obj\Debug\RdlCompile.cache
+C:\intranetglobosat\gsat.remuneracao\Cit.Globosat.Premios\obj\Debug\RdlCompile.compiled
+C:\intranetglobosat\gsat.remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.dll
+C:\intranetglobosat\gsat.remuneracao\Cit.Globosat.Premios\obj\Debug\Cit.Globosat.Premios.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\obj\Debug\gsat.premios.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\obj\Debug\RdlCompile.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\obj\Debug\RdlCompile.compiled
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\obj\Debug\Cit.Globosat.Premios.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\obj\Debug\Cit.Globosat.Premios.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Premios.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Premios.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Controls.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Common.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Controls.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Common.dll
+C:\Tatiana\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Premios.dll
+C:\Tatiana\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Premios.pdb
+C:\Tatiana\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\Tatiana\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Controls.dll
+C:\Tatiana\gsat.remuneracao\gsat.premios\obj\Debug\gsat.premios.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\gsat.premios\obj\Debug\RdlCompile.cache
+C:\Tatiana\gsat.remuneracao\gsat.premios\obj\Debug\RdlCompile.compiled
+C:\Tatiana\gsat.remuneracao\gsat.premios\obj\Debug\Cit.Globosat.Premios.dll
+C:\Tatiana\gsat.remuneracao\gsat.premios\obj\Debug\Cit.Globosat.Premios.pdb
+C:\Tatiana\gsat.remuneracao\gsat.premios\bin\Debug\wnvhtmlconvert.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Premios.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Premios.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.premios\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.premios\obj\Debug\gsat.premios.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.premios\obj\Debug\RdlCompile.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.premios\obj\Debug\RdlCompile.compiled
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.premios\obj\Debug\Cit.Globosat.Premios.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.premios\obj\Debug\Cit.Globosat.Premios.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.premios\bin\Debug\Cit.Globosat.Premios.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.premios\bin\Debug\Cit.Globosat.Premios.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.premios\bin\Debug\Cit.Globosat.Remuneracao.DAL.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.premios\obj\Debug\gsat.premios.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.premios\obj\Debug\RdlCompile.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.premios\obj\Debug\RdlCompile.compiled
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.premios\obj\Debug\Cit.Globosat.Premios.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.premios\obj\Debug\Cit.Globosat.Premios.pdb

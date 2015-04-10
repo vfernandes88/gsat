@@ -1,0 +1,22 @@
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\gsat.remuneracao.FaleConosco.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\Globosat.Remuneracao.FaleConosco.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\Globosat.Remuneracao.FaleConosco.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FaleConosco\bin\Debug\Globosat.Remuneracao.FaleConosco.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FaleConosco\bin\Debug\Globosat.Remuneracao.FaleConosco.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FaleConosco\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.FaleConosco\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FaleConosco\bin\Debug\Globosat.Remuneracao.FaleConosco.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FaleConosco\bin\Debug\Globosat.Remuneracao.FaleConosco.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\gsat.remuneracao.FaleConosco.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\Globosat.Remuneracao.FaleConosco.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\Globosat.Remuneracao.FaleConosco.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FaleConosco\bin\Debug\Globosat.Remuneracao.FaleConosco.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FaleConosco\bin\Debug\Globosat.Remuneracao.FaleConosco.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\gsat.remuneracao.FaleConosco.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\Globosat.Remuneracao.FaleConosco.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.FaleConosco\obj\Debug\Globosat.Remuneracao.FaleConosco.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.FaleConosco\bin\Debug\Globosat.Remuneracao.FaleConosco.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.FaleConosco\bin\Debug\Globosat.Remuneracao.FaleConosco.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.FaleConosco\obj\Debug\gsat.remuneracao.FaleConosco.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.FaleConosco\obj\Debug\Globosat.Remuneracao.FaleConosco.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.FaleConosco\obj\Debug\Globosat.Remuneracao.FaleConosco.pdb

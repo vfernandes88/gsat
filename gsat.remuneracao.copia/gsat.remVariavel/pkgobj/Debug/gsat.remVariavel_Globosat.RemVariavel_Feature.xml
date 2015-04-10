@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Web Part de Exibição de Remuneração Variável por Ano" Id="13534211-5d3f-48a4-aaa4-4e065e0b7e84" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.RemVariavel">
+  <ElementManifests>
+    <ElementManifest Location="WPRemVariavel\Elements.xml" />
+    <ElementFile Location="WPRemVariavel\WPRemVariavel.webpart" />
+  </ElementManifests>
+</Feature>

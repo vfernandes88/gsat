@@ -1,0 +1,5 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library.Cargo\bin\Debug\Globosat.Library.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library.Cargo\bin\Debug\Globosat.Library.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library.Cargo\obj\Debug\Globosat.Library.Cargo.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library.Cargo\obj\Debug\Globosat.Library.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Globosat.Library.Cargo\obj\Debug\Globosat.Library.pdb

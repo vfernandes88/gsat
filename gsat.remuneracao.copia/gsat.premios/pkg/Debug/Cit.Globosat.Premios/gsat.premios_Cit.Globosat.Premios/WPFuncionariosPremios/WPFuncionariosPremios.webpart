@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Cit.Globosat.Premios.WPFuncionariosPremios.WPFuncionariosPremios, Cit.Globosat.Premios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=49c2cd8d8f741a50" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">Relatório com gráfico de Prêmios x Funcionários</property>
+        <property name="Description" type="string">Gráfico que apresentada os valores dos prêmios dos funcionários.</property>
+        <property name="CatalogIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="TitleIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="ChromeType" type="chrometype">None</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

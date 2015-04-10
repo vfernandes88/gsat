@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Item (0x01) -->
+  <ContentType ID="0x01002dc35842ae9645fdbf129f7aab3e9e3d"
+               Name="Globosat.Remuneracao.TabelaSalarial - CT_TabelaSalarial"
+               Group="Custom Content Types"
+               Description="My Content Type"
+               Inherits="TRUE"
+               Version="0">
+    <FieldRefs>
+      <FieldRef ID="{943E7530-5E2B-4C02-8259-CCD93A9ECB18}" Name="RemuneracaoOrdem" DisplayName="Ordem" Required="True"/>
+      <FieldRef ID="{76C140E1-D827-433B-AD38-257F9594B847}" Name="Remuneracao_Value" DisplayName="Remuneracao_Value" Required="True"/>
+    </FieldRefs>
+  </ContentType>
+</Elements>

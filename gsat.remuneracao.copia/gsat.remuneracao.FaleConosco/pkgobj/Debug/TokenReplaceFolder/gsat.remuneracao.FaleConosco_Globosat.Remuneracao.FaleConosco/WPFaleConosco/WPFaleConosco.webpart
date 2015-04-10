@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Globosat.Remuneracao.FaleConosco.WPFaleConosco.WPFaleConosco, Globosat.Remuneracao.FaleConosco, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d9eb8068188b8854" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">WPFaleConosco</property>
+        <property name="Description" type="string">My Visual WebPart</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

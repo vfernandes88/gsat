@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="WPExibeMetasFuncUC.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="WPExibeMetasFunc\" Type="ElementManifest" />
+    <ProjectItemFile Source="WPExibeMetasFunc.webpart" Target="WPExibeMetasFunc\" Type="ElementFile" />
+    <ProjectItemFile Source="WPExibeMetasFuncUC.ascx" Target="CONTROLTEMPLATES\Globosat.Remuneracao.ExibeMetasFuncionario\WPExibeMetasFunc\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="Globosat.Remuneracao.ExibeMetasFuncionario.WPExibeMetasFuncionario" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Globosat.Remuneracao.Forms.Webparts.InfoPathFormHost.InfoPathFormHost, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="CatalogIconImageUrl" type="string">/_layouts/images/Cit.Globosat.Base/logo_globosat.gif</property>
+        <property name="Title" type="string">InfoPathFormHost</property>
+        <property name="Description" type="string">WebPart para exibição de Formulários Infopath</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

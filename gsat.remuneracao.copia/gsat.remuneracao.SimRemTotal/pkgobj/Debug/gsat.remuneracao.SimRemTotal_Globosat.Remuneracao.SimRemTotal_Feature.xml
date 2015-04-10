@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Feature da Web Part de Simulador de Remuneração Total" Id="79b10ca9-8b76-46f9-a2a3-7fb35a52790c" ImageUrl="Cit.Globosat.Base/logo_globosat.gif" Scope="Site" Title="Globosat.Remuneracao.SimRemTotal">
+  <ElementManifests>
+    <ElementManifest Location="WPSimRemTotal\Elements.xml" />
+    <ElementFile Location="WPSimRemTotal\WPSimRemTotal.webpart" />
+  </ElementManifests>
+</Feature>

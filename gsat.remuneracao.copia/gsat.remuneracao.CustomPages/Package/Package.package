@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5a750f9e-1994-4c30-aba4-924c38bc9423" solutionId="5a750f9e-1994-4c30-aba4-924c38bc9423" resetWebServer="false" name="Globosat.Remuneracao.CustomPages" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="0c9a9ac5-85bc-4cdc-965f-3f29ac834c1a" />
+  </projectItems>
+</package>

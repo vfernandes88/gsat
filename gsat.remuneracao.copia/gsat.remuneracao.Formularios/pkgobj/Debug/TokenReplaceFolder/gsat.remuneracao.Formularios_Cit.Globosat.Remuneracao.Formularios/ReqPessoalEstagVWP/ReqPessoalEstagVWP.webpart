@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="Cit.Globosat.Remuneracao.Formularios.WebParts.ReqPessoalEstagVWP.ReqPessoalEstagVWP, Cit.Globosat.Remuneracao.Formularios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=dfe7308c061203c4" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">CI&amp;T Form Requisição de Estagiário WebPart</property>
+        <property name="Description" type="string">Formulário de Requisição de Estagiário.</property>
+        <property name="CatalogIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="TitleIconImageUrl" type="string">/_layouts/images/gsat.gif</property>
+        <property name="ChromeType" type="chrometype">None</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

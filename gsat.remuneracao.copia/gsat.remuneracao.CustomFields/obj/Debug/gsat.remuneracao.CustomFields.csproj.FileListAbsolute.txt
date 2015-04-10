@@ -1,0 +1,32 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomFields\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\gsat.remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\gsat.remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\gsat.remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\gsat.remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomFields\bin\Debug\Globosat.Remuneracao.CustomFields.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomFields\obj\Debug\gsat.remuneracao.CustomFields.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.CustomFields\obj\Debug\Globosat.Remuneracao.CustomFields.pdb

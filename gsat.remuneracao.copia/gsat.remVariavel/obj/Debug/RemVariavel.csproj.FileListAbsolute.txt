@@ -1,0 +1,35 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\RemVariavel\bin\Debug\RemVariavel.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\RemVariavel\bin\Debug\RemVariavel.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\RemVariavel\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\RemVariavel\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\RemVariavel\bin\Debug\RemVariavel.dll
+C:\Projetos\Globosat.Remuneracao\RemVariavel\bin\Debug\RemVariavel.pdb
+C:\Projetos\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.dll
+C:\Projetos\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.pdb
+C:\Projetos\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.csprojResolveAssemblyReference.cache
+C:\Projetos\gsat_dev\Globosat.Remuneracao\RemVariavel\bin\Debug\RemVariavel.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\RemVariavel\bin\Debug\RemVariavel.pdb
+C:\Projetos\gsat_dev\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.csprojResolveAssemblyReference.cache
+C:\Projetos\gsat_dev\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.dll
+C:\Projetos\gsat_dev\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.pdb
+Z:\Globosat.Remuneracao\RemVariavel\bin\Debug\RemVariavel.dll
+Z:\Globosat.Remuneracao\RemVariavel\bin\Debug\RemVariavel.pdb
+Z:\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.dll
+Z:\Globosat.Remuneracao\RemVariavel\obj\Debug\RemVariavel.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\RemVariavel\bin\Debug\RemVariavel.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\RemVariavel\bin\Debug\RemVariavel.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\RemVariavel\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\RemVariavel\obj\Debug\RemVariavel.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\RemVariavel\obj\Debug\RemVariavel.pdb
+Z:\Globosat.Remuneracao - Copy\RemVariavel\obj\Debug\RemVariavel.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\RemVariavel\obj\Debug\RemVariavel.dll
+Z:\Globosat.Remuneracao - Copy\RemVariavel\obj\Debug\RemVariavel.pdb
+Z:\Globosat.Remuneracao - Copy\RemVariavel\bin\Debug\RemVariavel.dll
+Z:\Globosat.Remuneracao - Copy\RemVariavel\bin\Debug\RemVariavel.pdb
+Z:\Globosat.Remuneracao - Copy\RemVariavel\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\RemVariavel\bin\Debug\wnvhtmlconvert.dll
+Z:\Globosat.Remuneracao - Copy\RemVariavel\bin\Debug\Cit.Globosat.Common.pdb

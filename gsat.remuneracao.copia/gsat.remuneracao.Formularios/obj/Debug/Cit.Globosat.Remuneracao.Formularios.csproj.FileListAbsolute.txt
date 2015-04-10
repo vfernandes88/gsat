@@ -1,0 +1,32 @@
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.csprojResolveAssemblyReference.cache
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\CIT.Sharepoint.Util.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\wnvhtmlconvert.dll
+C:\Users\sharepointdev\Documents\GitHub\intranetglobosat\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.csprojResolveAssemblyReference.cache
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+C:\Projetos\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+Z:\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+Z:\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+Z:\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+Z:\Globosat.Remuneracao\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\obj\Debug\ResolveAssemblyReference.cache
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+\\rj2k8sph02\c$\Projetos\gsat_dev\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.csprojResolveAssemblyReference.cache
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\obj\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Remuneracao.Formularios.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Common.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Controls.dll
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Common.pdb
+Z:\Globosat.Remuneracao - Copy\Cit.Globosat.Remuneracao.Formularios\bin\Debug\Cit.Globosat.Controls.pdb

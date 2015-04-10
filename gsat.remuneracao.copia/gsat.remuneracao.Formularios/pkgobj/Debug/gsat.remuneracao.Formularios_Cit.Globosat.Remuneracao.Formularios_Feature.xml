@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Habilita formulários de remunerações." Id="96e76f8a-0a39-4d7a-b98d-dd0f22c7af7a" ImageUrl="Cit.Globosat.Base/logo-cit.gif" ImageUrlAltText="CI&amp;T Feature" Scope="Site" Title="Cit.Globosat.Remuneracao.Formularios">
+  <ElementManifests>
+    <ElementManifest Location="AltFuncCargoVWP\Elements.xml" />
+    <ElementFile Location="AltFuncCargoVWP\AltFuncCargoVWP.webpart" />
+    <ElementManifest Location="ReqPessoalVWP\Elements.xml" />
+    <ElementFile Location="ReqPessoalVWP\ReqPessoalVWP.webpart" />
+    <ElementManifest Location="ReqPessoalEstagVWP\Elements.xml" />
+    <ElementFile Location="ReqPessoalEstagVWP\ReqPessoalEstagVWP.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,37 @@
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.SimRemTotal\bin\Debug\wnvhtmlconvert.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\gsat.remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\intranetglobosat\gsat.remuneracao\Globosat.Remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\gsat.remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\CIT.Sharepoint.Util.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Library.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Cit.Globosat.Common.dll
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Library.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\CIT.Sharepoint.Util.pdb
+C:\intranetglobosat\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Cit.Globosat.Common.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\Tatiana\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\gsat.remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\gsat.remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\TFS\Em Homologação\gsat.remuneracao\gsat.remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll.config
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.SimRemTotal\bin\Debug\Globosat.Remuneracao.SimRemTotal.pdb
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.SimRemTotal\obj\Debug\gsat.remuneracao.SimRemTotal.csprojResolveAssemblyReference.cache
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.dll
+C:\TFS\Em Homologação\gsat.remuneracao - Copy\gsat.remuneracao.SimRemTotal\obj\Debug\Globosat.Remuneracao.SimRemTotal.pdb

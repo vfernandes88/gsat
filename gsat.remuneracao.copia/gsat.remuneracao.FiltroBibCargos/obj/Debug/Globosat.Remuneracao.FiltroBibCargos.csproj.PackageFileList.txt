@@ -1,0 +1,1 @@
+bin\Debug\Globosat.Remuneracao.FiltroBibCargos.wsp

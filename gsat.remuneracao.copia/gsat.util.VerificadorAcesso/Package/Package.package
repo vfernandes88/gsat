@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="06371d2c-c083-475e-ae28-76446f0c8577" solutionId="06371d2c-c083-475e-ae28-76446f0c8577" resetWebServer="false" name="Globosat.Util.VerificadorAcesso" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="a7d58579-626e-47dc-903a-600499344a39" />
+  </features>
+</package>
